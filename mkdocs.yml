@@ -237,6 +237,16 @@ nav:
           - 贺烈: sufe_itcs_faculty_network/sufe_itcs_helie_network.md
           - 徐韧喆: sufe_itcs_faculty_network/sufe_itcs_xurenzhe_network.md
           - Jannik Peters: sufe_itcs_faculty_network/sufe_itcs_peters_network.md
+  - HUST:
+      - 首页: institutions/hust.md
+      - CGCL 实验室:
+          - 总览: hust_cgcl_faculty_network/README.md
+          - 金海: hust_cgcl_faculty_network/hust_cgcl_jinhai_network.md
+          - 吴松: hust_cgcl_faculty_network/hust_cgcl_wusong_network.md
+          - 廖小飞: hust_cgcl_faculty_network/hust_cgcl_liaoxiaofei_network.md
+          - 陈汉华: hust_cgcl_faculty_network/hust_cgcl_chenhanhua_network.md
+          - 石宣化: hust_cgcl_faculty_network/hust_cgcl_shixuanhua_network.md
+          - 刘方明: hust_cgcl_faculty_network/hust_cgcl_liufangming_network.md
   - THU:
       - 首页: institutions/thu.md
       - HPC 实验室:
@@ -275,6 +285,14 @@ nav:
           - 许斌: tsinghua_keg_faculty_network/tsinghua_keg_xubin_network.md
           - 东昱晓: tsinghua_keg_faculty_network/tsinghua_keg_dongyuxiao_network.md
           - 侯磊: tsinghua_keg_faculty_network/tsinghua_keg_houlei_network.md
+      - NICS-EFC 实验室:
+          - 总览: thu_nics_faculty_network/README.md
+          - 汪玉: thu_nics_faculty_network/thu_nics_wangyu_network.md
+          - 宁雪妃: thu_nics_faculty_network/thu_nics_ningxuefei_network.md
+          - 余金城: thu_nics_faculty_network/thu_nics_yujincheng_network.md
+          - 于超: thu_nics_faculty_network/thu_nics_yuchao_network.md
+          - 韩松: thu_nics_faculty_network/thu_nics_hansong_network.md
+          - 戴国浩: thu_nics_faculty_network/thu_nics_daiguohao_network.md
   - USTC:
       - 首页: institutions/ustc.md
       - GCL 实验室:
