@@ -293,6 +293,18 @@ nav:
           - 于超: thu_nics_faculty_network/thu_nics_yuchao_network.md
           - 韩松: thu_nics_faculty_network/thu_nics_hansong_network.md
           - 戴国浩: thu_nics_faculty_network/thu_nics_daiguohao_network.md
+      - IIIS 交叉信息研究院:
+          - 总览: thu_iiis_faculty_network/README.md
+          - 姚期智: thu_iiis_faculty_network/thu_iiis_yaoqizhi_network.md
+          - 段路明: thu_iiis_faculty_network/thu_iiis_duanluming_network.md
+          - 马雄峰: thu_iiis_faculty_network/thu_iiis_maxiongfeng_network.md
+          - 徐葳: thu_iiis_faculty_network/thu_iiis_xuwei_network.md
+          - 黄隆波: thu_iiis_faculty_network/thu_iiis_huanglongbo_network.md
+          - 李建: thu_iiis_faculty_network/thu_iiis_lijian_network.md
+          - 袁洋: thu_iiis_faculty_network/thu_iiis_yuanyang_network.md
+          - 陈建宇: thu_iiis_faculty_network/thu_iiis_chenjianyu_network.md
+          - 许华哲: thu_iiis_faculty_network/thu_iiis_xuhuazhe_network.md
+          - 高阳: thu_iiis_faculty_network/thu_iiis_gaoyang_network.md
   - USTC:
       - 首页: institutions/ustc.md
       - GCL 实验室:

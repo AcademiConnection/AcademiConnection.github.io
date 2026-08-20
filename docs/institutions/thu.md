@@ -7,3 +7,4 @@
 | HPC 实验室 | [查看总览](../thu_hpc_faculty_network/README.md) |
 | KEG 实验室 | [查看总览](../tsinghua_keg_faculty_network/README.md) |
 | NICS-EFC 实验室 | [查看总览](../thu_nics_faculty_network/README.md) |
+| IIIS 交叉信息研究院 | [查看总览](../thu_iiis_faculty_network/README.md) |
