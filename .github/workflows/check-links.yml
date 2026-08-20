@@ -1,0 +1,33 @@
+name: Check Link Conventions
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'ci/check-links.py'
+      - '.github/workflows/check-links.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'ci/check-links.py'
+      - '.github/workflows/check-links.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run link convention check
+        run: python3 ci/check-links.py
