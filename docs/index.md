@@ -13,6 +13,7 @@
 | 北京大学 | DAIR（数据与智能实验室） | [查看总览](pku_dair_faculty_network/README.md) |
 | 北京大学 | 刘璇哲团队 | [查看总览](pku_liuxuanzhe_faculty_network/README.md) |
 | 中国人民大学 | 高瓴人工智能学院 | [查看总览](ruc_gsai_faculty_network/README.md) |
+| 中国科学院计算技术研究所 | 量子计算与算法理论实验室（孙晓明团队） | [查看总览](ict_cas_sunxiaoming_faculty_network/README.md) |
 | 山东大学 | IRC 实验室 | [查看总览](sdu_irc_faculty_network/README.md) |
 | 上海交通大学 | IPADS 实验室 | [查看总览](sjtu_ipads_faculty_network/README.md) |
 | 清华大学 | HPC 实验室 | [查看总览](thu_hpc_faculty_network/README.md) |

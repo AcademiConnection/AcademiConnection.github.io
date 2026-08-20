@@ -117,6 +117,12 @@ nav:
           - 周骁: ruc_gsai_faculty_network/ruc_gsai_zhouxiao_network.md
           - 马彦彪: ruc_gsai_faculty_network/ruc_gsai_mayanbiao_network.md
           - 高欣: ruc_gsai_faculty_network/ruc_gsai_gaoxin_network.md
+  - 中国科学院计算技术研究所:
+      - 量子计算与算法理论实验室:
+          - 总览: ict_cas_sunxiaoming_faculty_network/README.md
+          - 孙晓明: ict_cas_sunxiaoming_faculty_network/ict_cas_sunxiaoming_network.md
+          - 张家琳: ict_cas_sunxiaoming_faculty_network/ict_cas_zhangjialin_network.md
+          - 田国敬: ict_cas_sunxiaoming_faculty_network/ict_cas_tianguojing_network.md
   - 山东大学:
       - IRC 实验室:
           - 总览: sdu_irc_faculty_network/README.md
