@@ -1,8 +1,23 @@
 site_name: Academic Connection Network
 site_description: 学术关系网络资料库
+site_url: https://academicconnection.github.io/AcademiConnectionWeb/
+repo_name: AcademiConnection/AcademiConnectionWeb
+repo_url: https://github.com/AcademiConnection/AcademiConnectionWeb
+edit_uri: ''
 theme:
   name: material
   language: zh
+  palette:
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: 切换至夜间模式
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: 切换至日间模式
   features:
     - navigation.tabs
     - navigation.sections
