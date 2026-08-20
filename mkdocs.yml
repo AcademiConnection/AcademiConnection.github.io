@@ -85,6 +85,18 @@ nav:
           - 黄棱潇: nju_tcs_faculty_network/nju_tcs_huanglingxiao_network.md
           - 刘景铖: nju_tcs_faculty_network/nju_tcs_liujingcheng_network.md
           - 张天翼: nju_tcs_faculty_network/nju_tcs_zhangtianyi_network.md
+  - BUPT:
+      - 首页: institutions/bupt.md
+      - SKLNST 实验室:
+          - 总览: bupt_sklnst_faculty_network/README.md
+          - 张平: bupt_sklnst_faculty_network/bupt_sklnst_zhangping_network.md
+          - 孟洛明: bupt_sklnst_faculty_network/bupt_sklnst_mengluoming_network.md
+          - 杨放春: bupt_sklnst_faculty_network/bupt_sklnst_yangfangchun_network.md
+          - 廖建新: bupt_sklnst_faculty_network/bupt_sklnst_liaojianxin_network.md
+          - 彭木根: bupt_sklnst_faculty_network/bupt_sklnst_pengmugen_network.md
+          - 邱雪松: bupt_sklnst_faculty_network/bupt_sklnst_qiuxuesong_network.md
+          - 王尚广: bupt_sklnst_faculty_network/bupt_sklnst_wangshangguang_network.md
+          - 李文璟: bupt_sklnst_faculty_network/bupt_sklnst_liwenjing_network.md
   - PKU:
       - 首页: institutions/pku.md
       - DAIR 实验室:
@@ -132,6 +144,11 @@ nav:
           - 周骁: ruc_gsai_faculty_network/ruc_gsai_zhouxiao_network.md
           - 马彦彪: ruc_gsai_faculty_network/ruc_gsai_mayanbiao_network.md
           - 高欣: ruc_gsai_faculty_network/ruc_gsai_gaoxin_network.md
+      - CloudLab 实验室:
+          - 总览: ruc_cloudlab_faculty_network/README.md
+          - 柴云鹏: ruc_cloudlab_faculty_network/ruc_cloudlab_chaiyunpeng_network.md
+          - 卞昊穹: ruc_cloudlab_faculty_network/ruc_cloudlab_bianhaoqiong_network.md
+          - 陈晋川: ruc_cloudlab_faculty_network/ruc_cloudlab_chenjinchuan_network.md
   - CAS:
       - 首页: institutions/cas.md
       - 信息工程研究所:
@@ -181,6 +198,18 @@ nav:
           - 付仕辉: sdu_wxy_faculty_network/sdu_wxy_fushihui_network.md
           - 徐秋亮: sdu_wxy_faculty_network/sdu_wxy_xuqiuliang_network.md
           - 董晓阳: sdu_wxy_faculty_network/sdu_wxy_dongxiaoyang_network.md
+      - IIC 智能计算研究所:
+          - 总览: sdu_iic_faculty_network/README.md
+          - 成秀珍: sdu_iic_faculty_network/sdu_iic_chengxiuzhen_network.md
+          - 于东晓: sdu_iic_faculty_network/sdu_iic_yudongxiao_network.md
+          - 李峰: sdu_iic_faculty_network/sdu_iic_lifeng_network.md
+          - 胡鹏飞: sdu_iic_faculty_network/sdu_iic_hupengfei_network.md
+          - 徐明辉: sdu_iic_faculty_network/sdu_iic_xuminghui_network.md
+          - 张广辉: sdu_iic_faculty_network/sdu_iic_zhangguanghui_network.md
+          - 肖梦白: sdu_iic_faculty_network/sdu_iic_xiaomengbai_network.md
+          - 郑艳伟: sdu_iic_faculty_network/sdu_iic_zhengyanwei_network.md
+          - 张啸: sdu_iic_faculty_network/sdu_iic_zhangxiao_network.md
+          - 章宦乐: sdu_iic_faculty_network/sdu_iic_zhanghuanle_network.md
   - SJTU:
       - 首页: institutions/sjtu.md
       - IPADS 实验室:
@@ -222,6 +251,13 @@ nav:
           - 汪宇霆: sjtu_tcs_faculty_network/sjtu_tcs_wangyuting_network.md
           - 尹强: sjtu_tcs_faculty_network/sjtu_tcs_yinqiang_network.md
           - 张宇昊: sjtu_tcs_faculty_network/sjtu_tcs_zhangyuhao_network.md
+      - EPCC 实验室:
+          - 总览: sjtu_epcc_faculty_network/README.md
+          - 过敏意: sjtu_epcc_faculty_network/sjtu_epcc_guominyi_network.md
+          - 陈全: sjtu_epcc_faculty_network/sjtu_epcc_chenquan_network.md
+          - 冷静文: sjtu_epcc_faculty_network/sjtu_epcc_lengjingwen_network.md
+          - 李超: sjtu_epcc_faculty_network/sjtu_epcc_lichao_network.md
+          - 朱弘恣: sjtu_epcc_faculty_network/sjtu_epcc_zhuhongzi_network.md
   - SUFE:
       - 首页: institutions/sufe.md
       - ITCS 实验室:
@@ -305,6 +341,42 @@ nav:
           - 陈建宇: thu_iiis_faculty_network/thu_iiis_chenjianyu_network.md
           - 许华哲: thu_iiis_faculty_network/thu_iiis_xuhuazhe_network.md
           - 高阳: thu_iiis_faculty_network/thu_iiis_gaoyang_network.md
+      - AIR 智能产业研究院:
+          - 总览: thu_air_faculty_network/README.md
+          - 张亚勤: thu_air_faculty_network/thu_air_zhangyaqin_network.md
+          - 刘洋: thu_air_faculty_network/thu_air_liuyang_network.md
+          - 马维英: thu_air_faculty_network/thu_air_maweiying_network.md
+          - 李航: thu_air_faculty_network/thu_air_lihang_network.md
+          - 聂再清: thu_air_faculty_network/thu_air_niezaiqing_network.md
+          - 刘云新: thu_air_faculty_network/thu_air_liuyunxin_network.md
+          - 刘菁菁: thu_air_faculty_network/thu_air_liujingjing_network.md
+          - 兰艳艳: thu_air_faculty_network/thu_air_lanyanyan_network.md
+          - 曹婷: thu_air_faculty_network/thu_air_caoting_network.md
+          - 周谷越: thu_air_faculty_network/thu_air_zhouguyue_network.md
+      - 网络所:
+          - 总览: thu_net_faculty_network/README.md
+          - 吴建平: thu_net_faculty_network/thu_net_wujianping_network.md
+          - 李星: thu_net_faculty_network/thu_net_lixing_network.md
+          - 徐恪: thu_net_faculty_network/thu_net_xuke_network.md
+          - 尹霞: thu_net_faculty_network/thu_net_yinxia_network.md
+          - 崔勇: thu_net_faculty_network/thu_net_cuiyong_network.md
+          - 徐明伟: thu_net_faculty_network/thu_net_xumingwei_network.md
+          - 李丹: thu_net_faculty_network/thu_net_lidan_network.md
+      - THUNLP 实验室:
+          - 总览: thu_thunlp_faculty_network/README.md
+          - 孙茂松: thu_thunlp_faculty_network/thu_thunlp_sunmaosong_network.md
+          - 刘知远: thu_thunlp_faculty_network/thu_thunlp_liuzhiyuan_network.md
+          - 刘洋: thu_thunlp_faculty_network/thu_thunlp_liuyang_network.md
+          - 兰艳艳: thu_thunlp_faculty_network/thu_thunlp_lanyanyan_network.md
+          - 姚远: thu_thunlp_faculty_network/thu_thunlp_yaoyuan_network.md
+          - 丁宁: thu_thunlp_faculty_network/thu_thunlp_dingning_network.md
+      - TSAIL 课题组:
+          - 总览: thu_tsail_faculty_network/README.md
+          - 张钹: thu_tsail_faculty_network/thu_tsail_zhangbo_network.md
+          - 朱军: thu_tsail_faculty_network/thu_tsail_zhujun_network.md
+          - 胡晓林: thu_tsail_faculty_network/thu_tsail_huxiaolin_network.md
+          - 陈键飞: thu_tsail_faculty_network/thu_tsail_chenjianfei_network.md
+          - 苏航: thu_tsail_faculty_network/thu_tsail_suhang_network.md
   - USTC:
       - 首页: institutions/ustc.md
       - GCL 实验室:
