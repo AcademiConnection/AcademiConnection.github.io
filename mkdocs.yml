@@ -1,0 +1,49 @@
+site_name: Academic Connection Network
+site_description: 学术关系网络资料库
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+nav:
+  - 首页: index.md
+  - 南京大学:
+      - LAMDA 实验室: nju_lamda_faculty_network/README.md
+      - LANDS 实验室: nju_lands_faculty_network/README.md
+  - 北京大学:
+      - DAIR 实验室: pku_dair_faculty_network/README.md
+      - 刘璇哲团队: pku_liuxuanzhe_faculty_network/README.md
+  - 中国人民大学:
+      - 高瓴人工智能学院: ruc_gsai_faculty_network/README.md
+  - 山东大学:
+      - IRC 实验室: sdu_irc_faculty_network/README.md
+  - 上海交通大学:
+      - IPADS 实验室: sjtu_ipads_faculty_network/README.md
+  - 清华大学:
+      - HPC 实验室: thu_hpc_faculty_network/README.md
+      - KEG 实验室: tsinghua_keg_faculty_network/README.md
+  - 中国科学技术大学:
+      - GCL 实验室: ustc_gcl_faculty_network/README.md
+  - 浙江大学:
+      - ARCLAB 实验室: zju_arclab_faculty_network/README.md
+  - Stanford University:
+      - MAST 实验室: stanford_mast_faculty_network/README.md
