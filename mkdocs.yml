@@ -43,7 +43,7 @@ markdown_extensions:
 
 nav:
   - 首页: index.md
-  - 南京大学:
+  - NJU:
       - LAMDA 实验室:
           - 总览: nju_lamda_faculty_network/README.md
           - 周志华: nju_lamda_faculty_network/nju_lamda_zhouzhihua_network.md
@@ -76,7 +76,7 @@ nav:
           - 郑嘉琦: nju_lands_faculty_network/nju_lands_zhengjiaqi_network.md
           - 顾荣: nju_lands_faculty_network/nju_lands_gurong_network.md
           - 史书瑜: nju_lands_faculty_network/nju_lands_shishuyu_network.md
-  - 北京大学:
+  - PKU:
       - DAIR 实验室:
           - 总览: pku_dair_faculty_network/README.md
           - 崔斌: pku_dair_faculty_network/pku_dair_cuibin_network.md
@@ -88,7 +88,7 @@ nav:
           - 刘譞哲: pku_liuxuanzhe_faculty_network/pku_liuxuanzhe_liuxuanzhe_network.md
           - 金鑫: pku_liuxuanzhe_faculty_network/pku_liuxuanzhe_jinxin_network.md
           - 马郓: pku_liuxuanzhe_faculty_network/pku_liuxuanzhe_mayun_network.md
-  - 中国人民大学:
+  - RUC:
       - 高瓴人工智能学院:
           - 总览: ruc_gsai_faculty_network/README.md
           - 文继荣: ruc_gsai_faculty_network/ruc_gsai_wenjirong_network.md
@@ -117,13 +117,13 @@ nav:
           - 周骁: ruc_gsai_faculty_network/ruc_gsai_zhouxiao_network.md
           - 马彦彪: ruc_gsai_faculty_network/ruc_gsai_mayanbiao_network.md
           - 高欣: ruc_gsai_faculty_network/ruc_gsai_gaoxin_network.md
-  - 中国科学院计算技术研究所:
+  - ICT CAS:
       - 量子计算与算法理论实验室:
           - 总览: ict_cas_sunxiaoming_faculty_network/README.md
           - 孙晓明: ict_cas_sunxiaoming_faculty_network/ict_cas_sunxiaoming_network.md
           - 张家琳: ict_cas_sunxiaoming_faculty_network/ict_cas_zhangjialin_network.md
           - 田国敬: ict_cas_sunxiaoming_faculty_network/ict_cas_tianguojing_network.md
-  - 山东大学:
+  - SDU:
       - IRC 实验室:
           - 总览: sdu_irc_faculty_network/README.md
           - 屠长河: sdu_irc_faculty_network/sdu_irc_tuchanghe_network.md
@@ -134,7 +134,7 @@ nav:
           - 李曼祎: sdu_irc_faculty_network/sdu_irc_limanyi_network.md
           - 钟凡: sdu_irc_faculty_network/sdu_irc_zhongfan_network.md
           - 曾琼: sdu_irc_faculty_network/sdu_irc_zengqiong_network.md
-  - 上海交通大学:
+  - SJTU:
       - IPADS 实验室:
           - 总览: sjtu_ipads_faculty_network/README.md
           - 陈海波: sjtu_ipads_faculty_network/sjtu_ipads_chenhaibo_network.md
@@ -151,7 +151,7 @@ nav:
           - 杜冬冬: sjtu_ipads_faculty_network/sjtu_ipads_dudongdong_network.md
           - 冯二虎: sjtu_ipads_faculty_network/sjtu_ipads_fengerhu_network.md
           - 余炀: sjtu_ipads_faculty_network/sjtu_ipads_yuyang_network.md
-  - 上海财经大学:
+  - SUFE:
       - ITCS 实验室:
           - 总览: sufe_itcs_faculty_network/README.md
           - 陆品燕: sufe_itcs_faculty_network/sufe_itcs_lupinyan_network.md
@@ -165,7 +165,7 @@ nav:
           - 贺烈: sufe_itcs_faculty_network/sufe_itcs_helie_network.md
           - 徐韧喆: sufe_itcs_faculty_network/sufe_itcs_xurenzhe_network.md
           - Jannik Peters: sufe_itcs_faculty_network/sufe_itcs_peters_network.md
-  - 清华大学:
+  - THU:
       - HPC 实验室:
           - 总览: thu_hpc_faculty_network/README.md
           - 郑纬民: thu_hpc_faculty_network/thu_hpc_zhengweimin_network.md
@@ -202,7 +202,7 @@ nav:
           - 许斌: tsinghua_keg_faculty_network/tsinghua_keg_xubin_network.md
           - 东昱晓: tsinghua_keg_faculty_network/tsinghua_keg_dongyuxiao_network.md
           - 侯磊: tsinghua_keg_faculty_network/tsinghua_keg_houlei_network.md
-  - 中国科学技术大学:
+  - USTC:
       - GCL 实验室:
           - 总览: ustc_gcl_faculty_network/README.md
           - 刘利刚: ustc_gcl_faculty_network/ustc_gcl_liuligang_network.md
@@ -223,7 +223,7 @@ nav:
           - 宋艳枝: ustc_gcl_faculty_network/ustc_gcl_songyanzhi_network.md
           - 吴天: ustc_gcl_faculty_network/ustc_gcl_wutian_network.md
           - 翟晓雅: ustc_gcl_faculty_network/ustc_gcl_zhaixiaoya_network.md
-  - 浙江大学:
+  - ZJU:
       - ARCLAB 实验室:
           - 总览: zju_arclab_faculty_network/README.md
           - 陈文智: zju_arclab_faculty_network/zju_arclab_chenwenzhi_network.md
@@ -234,7 +234,7 @@ nav:
           - 施青松: zju_arclab_faculty_network/zju_arclab_shiqingsong_network.md
           - 陈建海: zju_arclab_faculty_network/zju_arclab_chenjianhai_network.md
           - 王则可: zju_arclab_faculty_network/zju_arclab_wangzeke_network.md
-  - Stanford University:
+  - Stanford:
       - MAST 实验室:
           - 总览: stanford_mast_faculty_network/README.md
           - Christos Kozyrakis: stanford_mast_faculty_network/stanford_mast_kozyrakis_network.md

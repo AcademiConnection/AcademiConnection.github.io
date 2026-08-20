@@ -8,19 +8,20 @@
 
 | 高校 | 团队 / 实验室 | 教师网络总览 |
 |---|---|---|
-| 南京大学 | LAMDA（机器学习与数据挖掘研究所） | [查看总览](nju_lamda_faculty_network/README.md) |
-| 南京大学 | LANDS | [查看总览](nju_lands_faculty_network/README.md) |
-| 北京大学 | DAIR（数据与智能实验室） | [查看总览](pku_dair_faculty_network/README.md) |
-| 北京大学 | 刘璇哲团队 | [查看总览](pku_liuxuanzhe_faculty_network/README.md) |
-| 中国人民大学 | 高瓴人工智能学院 | [查看总览](ruc_gsai_faculty_network/README.md) |
-| 中国科学院计算技术研究所 | 量子计算与算法理论实验室（孙晓明团队） | [查看总览](ict_cas_sunxiaoming_faculty_network/README.md) |
-| 山东大学 | IRC 实验室 | [查看总览](sdu_irc_faculty_network/README.md) |
-| 上海交通大学 | IPADS 实验室 | [查看总览](sjtu_ipads_faculty_network/README.md) |
-| 清华大学 | HPC 实验室 | [查看总览](thu_hpc_faculty_network/README.md) |
-| 清华大学 | KEG 实验室 | [查看总览](tsinghua_keg_faculty_network/README.md) |
-| 中国科学技术大学 | GCL 实验室 | [查看总览](ustc_gcl_faculty_network/README.md) |
-| 浙江大学 | ARCLAB 实验室 | [查看总览](zju_arclab_faculty_network/README.md) |
-| Stanford University | MAST | [查看总览](stanford_mast_faculty_network/README.md) |
+| NJU | LAMDA（机器学习与数据挖掘研究所） | [查看总览](nju_lamda_faculty_network/README.md) |
+| NJU | LANDS | [查看总览](nju_lands_faculty_network/README.md) |
+| PKU | DAIR（数据与智能实验室） | [查看总览](pku_dair_faculty_network/README.md) |
+| PKU | 刘璇哲团队 | [查看总览](pku_liuxuanzhe_faculty_network/README.md) |
+| RUC | 高瓴人工智能学院 | [查看总览](ruc_gsai_faculty_network/README.md) |
+| ICT CAS | 量子计算与算法理论实验室（孙晓明团队） | [查看总览](ict_cas_sunxiaoming_faculty_network/README.md) |
+| SDU | IRC 实验室 | [查看总览](sdu_irc_faculty_network/README.md) |
+| SJTU | IPADS 实验室 | [查看总览](sjtu_ipads_faculty_network/README.md) |
+| SUFE | ITCS 实验室 | [查看总览](sufe_itcs_faculty_network/README.md) |
+| THU | HPC 实验室 | [查看总览](thu_hpc_faculty_network/README.md) |
+| THU | KEG 实验室 | [查看总览](tsinghua_keg_faculty_network/README.md) |
+| USTC | GCL 实验室 | [查看总览](ustc_gcl_faculty_network/README.md) |
+| ZJU | ARCLAB 实验室 | [查看总览](zju_arclab_faculty_network/README.md) |
+| Stanford | MAST | [查看总览](stanford_mast_faculty_network/README.md) |
 
 ## 使用说明
 
