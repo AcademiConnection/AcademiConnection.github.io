@@ -130,6 +130,20 @@ nav:
           - 杜冬冬: sjtu_ipads_faculty_network/sjtu_ipads_dudongdong_network.md
           - 冯二虎: sjtu_ipads_faculty_network/sjtu_ipads_fengerhu_network.md
           - 余炀: sjtu_ipads_faculty_network/sjtu_ipads_yuyang_network.md
+  - 上海财经大学:
+      - ITCS 实验室:
+          - 总览: sufe_itcs_faculty_network/README.md
+          - 陆品燕: sufe_itcs_faculty_network/sufe_itcs_lupinyan_network.md
+          - Nick Gravin: sufe_itcs_faculty_network/sufe_itcs_gravin_network.md
+          - 韩恺: sufe_itcs_faculty_network/sufe_itcs_hankai_network.md
+          - 伏虎: sufe_itcs_faculty_network/sufe_itcs_fuhu_network.md
+          - 唐志皓: sufe_itcs_faculty_network/sufe_itcs_tangzhihao_network.md
+          - 郭子超: sufe_itcs_faculty_network/sufe_itcs_kwok_network.md
+          - 王晓: sufe_itcs_faculty_network/sufe_itcs_wangxiao_network.md
+          - 陶一馨: sufe_itcs_faculty_network/sufe_itcs_taoyixin_network.md
+          - 贺烈: sufe_itcs_faculty_network/sufe_itcs_helie_network.md
+          - 徐韧喆: sufe_itcs_faculty_network/sufe_itcs_xurenzhe_network.md
+          - Jannik Peters: sufe_itcs_faculty_network/sufe_itcs_peters_network.md
   - 清华大学:
       - HPC 实验室:
           - 总览: thu_hpc_faculty_network/README.md
