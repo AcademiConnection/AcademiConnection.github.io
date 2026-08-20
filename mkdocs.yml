@@ -327,6 +327,20 @@ nav:
           - 宋艳枝: ustc_gcl_faculty_network/ustc_gcl_songyanzhi_network.md
           - 吴天: ustc_gcl_faculty_network/ustc_gcl_wutian_network.md
           - 翟晓雅: ustc_gcl_faculty_network/ustc_gcl_zhaixiaoya_network.md
+      - ADSL 实验室:
+          - 总览: ustc_adsl_faculty_network/README.md
+          - 许胤龙: ustc_adsl_faculty_network/ustc_adsl_xuyinlong_network.md
+          - 李永坤: ustc_adsl_faculty_network/ustc_adsl_liyongkun_network.md
+          - 李诚: ustc_adsl_faculty_network/ustc_adsl_licheng_network.md
+          - 吕敏: ustc_adsl_faculty_network/ustc_adsl_lvmin_network.md
+          - 郑启龙: ustc_adsl_faculty_network/ustc_adsl_zhengqilong_network.md
+  - TJU:
+      - 首页: institutions/tju.md
+      - WISE 实验室:
+          - 总览: tju_wise_faculty_network/README.md
+          - 陈俊洁: tju_wise_faculty_network/tju_wise_chenjunjie_network.md
+          - 姜佳君: tju_wise_faculty_network/tju_wise_jiangjiajun_network.md
+          - 王赞: tju_wise_faculty_network/tju_wise_wangzan_network.md
   - ZJU:
       - 首页: institutions/zju.md
       - ARCLAB 实验室:
