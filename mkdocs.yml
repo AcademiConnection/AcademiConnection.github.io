@@ -76,6 +76,14 @@ nav:
           - 郑嘉琦: nju_lands_faculty_network/nju_lands_zhengjiaqi_network.md
           - 顾荣: nju_lands_faculty_network/nju_lands_gurong_network.md
           - 史书瑜: nju_lands_faculty_network/nju_lands_shishuyu_network.md
+      - TCS 理论组:
+          - 总览: nju_tcs_faculty_network/README.md
+          - 尹一通: nju_tcs_faculty_network/nju_tcs_yinyitong_network.md
+          - 栗师: nju_tcs_faculty_network/nju_tcs_shili_network.md
+          - 姚鹏晖: nju_tcs_faculty_network/nju_tcs_yaopenghui_network.md
+          - 黄棱潇: nju_tcs_faculty_network/nju_tcs_huanglingxiao_network.md
+          - 刘景铖: nju_tcs_faculty_network/nju_tcs_liujingcheng_network.md
+          - 张天翼: nju_tcs_faculty_network/nju_tcs_zhangtianyi_network.md
   - PKU:
       - DAIR 实验室:
           - 总览: pku_dair_faculty_network/README.md
@@ -88,6 +96,10 @@ nav:
           - 刘譞哲: pku_liuxuanzhe_faculty_network/pku_liuxuanzhe_liuxuanzhe_network.md
           - 金鑫: pku_liuxuanzhe_faculty_network/pku_liuxuanzhe_jinxin_network.md
           - 马郓: pku_liuxuanzhe_faculty_network/pku_liuxuanzhe_mayun_network.md
+      - 量子计算理论团队:
+          - 总览: pku_qct_faculty_network/README.md
+          - 袁骁: pku_qct_faculty_network/pku_qct_yuanxiao_network.md
+          - 李彤阳: pku_qct_faculty_network/pku_qct_litongyang_network.md
   - RUC:
       - 高瓴人工智能学院:
           - 总览: ruc_gsai_faculty_network/README.md
@@ -117,6 +129,21 @@ nav:
           - 周骁: ruc_gsai_faculty_network/ruc_gsai_zhouxiao_network.md
           - 马彦彪: ruc_gsai_faculty_network/ruc_gsai_mayanbiao_network.md
           - 高欣: ruc_gsai_faculty_network/ruc_gsai_gaoxin_network.md
+  - CAS:
+      - 信息工程研究所:
+          - 总览: cas_iie_faculty_network/README.md
+          - 郭莉: cas_iie_faculty_network/cas_iie_guoli_network.md
+          - 侯锐: cas_iie_faculty_network/cas_iie_hourui_network.md
+          - 林东岱: cas_iie_faculty_network/cas_iie_lindongdai_network.md
+          - 赵险峰: cas_iie_faculty_network/cas_iie_zhaoxianfeng_network.md
+          - 荆继武: cas_iie_faculty_network/cas_iie_jingjiwu_network.md
+      - 软件所形式化方法团队:
+          - 总览: cas_iscas_fm_faculty_network/README.md
+          - 周巢尘: cas_iscas_fm_faculty_network/cas_iscas_zhouchaochen_network.md
+          - 林惠民: cas_iscas_fm_faculty_network/cas_iscas_linhuimin_network.md
+          - 詹乃军: cas_iscas_fm_faculty_network/cas_iscas_zhannaijun_network.md
+          - 吴志林: cas_iscas_fm_faculty_network/cas_iscas_wuzhilin_network.md
+          - 蔡少伟: cas_iscas_fm_faculty_network/cas_iscas_caishaowei_network.md
   - ICT CAS:
       - 量子计算与算法理论实验室:
           - 总览: ict_cas_sunxiaoming_faculty_network/README.md
@@ -134,6 +161,20 @@ nav:
           - 李曼祎: sdu_irc_faculty_network/sdu_irc_limanyi_network.md
           - 钟凡: sdu_irc_faculty_network/sdu_irc_zhongfan_network.md
           - 曾琼: sdu_irc_faculty_network/sdu_irc_zengqiong_network.md
+      - 王小云团队:
+          - 总览: sdu_wxy_faculty_network/README.md
+          - 王小云: sdu_wxy_faculty_network/sdu_wxy_wangxiaoyun_network.md
+          - 王美琴: sdu_wxy_faculty_network/sdu_wxy_wangmeiqin_network.md
+          - 许光午: sdu_wxy_faculty_network/sdu_wxy_xuguangwu_network.md
+          - 陈宇: sdu_wxy_faculty_network/sdu_wxy_chenyu_network.md
+          - 魏普文: sdu_wxy_faculty_network/sdu_wxy_weipuwen_network.md
+          - 胡思煌: sdu_wxy_faculty_network/sdu_wxy_husihuang_network.md
+          - 鞠雷: sdu_wxy_faculty_network/sdu_wxy_julei_network.md
+          - 王伟嘉: sdu_wxy_faculty_network/sdu_wxy_wangweijia_network.md
+          - 侯孟波: sdu_wxy_faculty_network/sdu_wxy_houmengbo_network.md
+          - 付仕辉: sdu_wxy_faculty_network/sdu_wxy_fushihui_network.md
+          - 徐秋亮: sdu_wxy_faculty_network/sdu_wxy_xuqiuliang_network.md
+          - 董晓阳: sdu_wxy_faculty_network/sdu_wxy_dongxiaoyang_network.md
   - SJTU:
       - IPADS 实验室:
           - 总览: sjtu_ipads_faculty_network/README.md
@@ -151,6 +192,29 @@ nav:
           - 杜冬冬: sjtu_ipads_faculty_network/sjtu_ipads_dudongdong_network.md
           - 冯二虎: sjtu_ipads_faculty_network/sjtu_ipads_fengerhu_network.md
           - 余炀: sjtu_ipads_faculty_network/sjtu_ipads_yuyang_network.md
+      - 信息安全与密码研究所（IISeC）:
+          - 总览: sjtu_iisec_faculty_network/README.md
+          - 谷大武: sjtu_iisec_faculty_network/sjtu_iisec_gudawu_network.md
+          - 邢朝平: sjtu_iisec_faculty_network/sjtu_iisec_xingchaoping_network.md
+          - 来学嘉: sjtu_iisec_faculty_network/sjtu_iisec_laixuejia_network.md
+          - 刘胜利: sjtu_iisec_faculty_network/sjtu_iisec_liushengli_network.md
+          - 郁昱: sjtu_iisec_faculty_network/sjtu_iisec_yuyu_network.md
+          - 王浩洋: sjtu_iisec_faculty_network/sjtu_iisec_wanghaoyang_network.md
+          - 孙士锋: sjtu_iisec_faculty_network/sjtu_iisec_sunshifeng_network.md
+      - 理论计算机科学研究所:
+          - 总览: sjtu_tcs_faculty_network/README.md
+          - 陈翌佳: sjtu_tcs_faculty_network/sjtu_tcs_chenyijia_network.md
+          - 傅育熙: sjtu_tcs_faculty_network/sjtu_tcs_fuyuxi_network.md
+          - 董笑菊: sjtu_tcs_faculty_network/sjtu_tcs_dongxiaoju_network.md
+          - 陶表帅: sjtu_tcs_faculty_network/sjtu_tcs_taobiaoshuai_network.md
+          - 王启圣: sjtu_tcs_faculty_network/sjtu_tcs_wangqisheng_network.md
+          - 杨宽: sjtu_tcs_faculty_network/sjtu_tcs_yangkuan_network.md
+          - 张驰豪: sjtu_tcs_faculty_network/sjtu_tcs_zhangchihao_network.md
+          - 刘思学: sjtu_tcs_faculty_network/sjtu_tcs_liusixue_network.md
+          - 龙环: sjtu_tcs_faculty_network/sjtu_tcs_longhuan_network.md
+          - 汪宇霆: sjtu_tcs_faculty_network/sjtu_tcs_wangyuting_network.md
+          - 尹强: sjtu_tcs_faculty_network/sjtu_tcs_yinqiang_network.md
+          - 张宇昊: sjtu_tcs_faculty_network/sjtu_tcs_zhangyuhao_network.md
   - SUFE:
       - ITCS 实验室:
           - 总览: sufe_itcs_faculty_network/README.md
@@ -234,6 +298,13 @@ nav:
           - 施青松: zju_arclab_faculty_network/zju_arclab_shiqingsong_network.md
           - 陈建海: zju_arclab_faculty_network/zju_arclab_chenjianhai_network.md
           - 王则可: zju_arclab_faculty_network/zju_arclab_wangzeke_network.md
+      - 离散优化与算法团队:
+          - 总览: zju_doa_faculty_network/README.md
+          - 张国川: zju_doa_faculty_network/zju_doa_zhangguochuan_network.md
+          - 陈林: zju_doa_faculty_network/zju_doa_chenlin_network.md
+          - 谈之奕: zju_doa_faculty_network/zju_doa_tanzhiyi_network.md
+          - 毛宇尘: zju_doa_faculty_network/zju_doa_maoyuchen_network.md
+          - 连佳宜: zju_doa_faculty_network/zju_doa_lianjiayi_network.md
   - Stanford:
       - MAST 实验室:
           - 总览: stanford_mast_faculty_network/README.md
