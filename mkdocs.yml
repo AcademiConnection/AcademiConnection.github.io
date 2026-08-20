@@ -85,6 +85,56 @@ nav:
           - 黄棱潇: nju_tcs_faculty_network/nju_tcs_huanglingxiao_network.md
           - 刘景铖: nju_tcs_faculty_network/nju_tcs_liujingcheng_network.md
           - 张天翼: nju_tcs_faculty_network/nju_tcs_zhangtianyi_network.md
+      - NJU NLP 研究组:
+          - 总览: nju_nlp_faculty_network/README.md
+          - 陈家骏: nju_nlp_faculty_network/nju_nlp_chenjiajun_network.md
+          - 戴新宇: nju_nlp_faculty_network/nju_nlp_daixinyu_network.md
+          - 黄书剑: nju_nlp_faculty_network/nju_nlp_huangshujian_network.md
+          - 张建兵: nju_nlp_faculty_network/nju_nlp_zhangjianbing_network.md
+          - 商琳: nju_nlp_faculty_network/nju_nlp_shanglin_network.md
+          - 吴震: nju_nlp_faculty_network/nju_nlp_wuzhen_network.md
+      - MCG 媒体计算组:
+          - 总览: nju_wanglimin_faculty_network/README.md
+          - 王利民: nju_wanglimin_faculty_network/nju_wlm_wanglimin_network.md
+  - FUDAN:
+      - 首页: institutions/fudan.md
+      - FVL 实验室:
+          - 总览: fudan_fvl_faculty_network/README.md
+          - 姜育刚: fudan_fvl_faculty_network/fudan_fvl_jiangyugang_network.md
+          - 薛向阳: fudan_fvl_faculty_network/fudan_fvl_xuexiangyang_network.md
+          - 吴祖煊: fudan_fvl_faculty_network/fudan_fvl_wuzuxuan_network.md
+          - 陈静静: fudan_fvl_faculty_network/fudan_fvl_chenjingjing_network.md
+          - 陈智能: fudan_fvl_faculty_network/fudan_fvl_chenzhineng_network.md
+          - 付彦伟: fudan_fvl_faculty_network/fudan_fvl_fuyanwei_network.md
+          - 曹艺馨: fudan_fvl_faculty_network/fudan_fvl_caoyixin_network.md
+          - 马兴军: fudan_fvl_faculty_network/fudan_fvl_maxingjun_network.md
+          - 贾萧松: fudan_fvl_faculty_network/fudan_fvl_jiaxiaosong_network.md
+          - 叶子逸: fudan_fvl_faculty_network/fudan_fvl_yeziyi_network.md
+      - FudanNLP 实验室:
+          - 总览: fudan_nlp_faculty_network/README.md
+          - 吴立德: fudan_nlp_faculty_network/fudan_nlp_wulide_network.md
+          - 黄萱菁: fudan_nlp_faculty_network/fudan_nlp_huangxuanjing_network.md
+          - 邱锡鹏: fudan_nlp_faculty_network/fudan_nlp_qiuxipeng_network.md
+          - 张奇: fudan_nlp_faculty_network/fudan_nlp_zhangqi_network.md
+          - 桂韬: fudan_nlp_faculty_network/fudan_nlp_guitao_network.md
+          - 魏忠钰: fudan_nlp_faculty_network/fudan_nlp_weizhongyu_network.md
+  - HIT:
+      - 首页: institutions/hit.md
+      - HIT-SCIR:
+          - 总览: hit_scir_faculty_network/README.md
+          - 刘挺: hit_scir_faculty_network/hit_scir_liuting_network.md
+          - 秦兵: hit_scir_faculty_network/hit_scir_qinbing_network.md
+          - 车万翔: hit_scir_faculty_network/hit_scir_chewanxiang_network.md
+          - 丁效: hit_scir_faculty_network/hit_scir_dingxiao_network.md
+          - 张伟男: hit_scir_faculty_network/hit_scir_zhangweinan_network.md
+          - 冯骁骋: hit_scir_faculty_network/hit_scir_fengxiaocheng_network.md
+  - HITSZ:
+      - 首页: institutions/hitsz.md
+      - 聂礼强智能媒体研究组:
+          - 总览: hitsz_nie_faculty_network/README.md
+          - 聂礼强: hitsz_nie_faculty_network/hitsz_nie_nieliqiang_network.md
+          - 邵睿: hitsz_nie_faculty_network/hitsz_nie_shaorui_network.md
+          - 吴建龙: hitsz_nie_faculty_network/hitsz_nie_wujianlong_network.md
   - BUPT:
       - 首页: institutions/bupt.md
       - SKLNST 实验室:
@@ -258,6 +308,13 @@ nav:
           - 冷静文: sjtu_epcc_faculty_network/sjtu_epcc_lengjingwen_network.md
           - 李超: sjtu_epcc_faculty_network/sjtu_epcc_lichao_network.md
           - 朱弘恣: sjtu_epcc_faculty_network/sjtu_epcc_zhuhongzi_network.md
+      - X-LANCE 跨媒体语言智能实验室:
+          - 总览: sjtu_xlance_faculty_network/README.md
+          - 俞凯: sjtu_xlance_faculty_network/sjtu_xlance_yukai_network.md
+          - 陈露: sjtu_xlance_faculty_network/sjtu_xlance_chenlu_network.md
+          - 陈谐: sjtu_xlance_faculty_network/sjtu_xlance_xiechen_network.md
+          - 吴梦玥: sjtu_xlance_faculty_network/sjtu_xlance_wumengyue_network.md
+          - 吴小宝: sjtu_xlance_faculty_network/sjtu_xlance_wuxiaobao_network.md
   - SUFE:
       - 首页: institutions/sufe.md
       - ITCS 实验室:
@@ -432,6 +489,56 @@ nav:
           - 谈之奕: zju_doa_faculty_network/zju_doa_tanzhiyi_network.md
           - 毛宇尘: zju_doa_faculty_network/zju_doa_maoyuchen_network.md
           - 连佳宜: zju_doa_faculty_network/zju_doa_lianjiayi_network.md
+      - 知识引擎实验室（ZJUKG）:
+          - 总览: zju_kg_faculty_network/README.md
+          - 陈华钧: zju_kg_faculty_network/zju_kg_chenhuajun_network.md
+          - 张宁豫: zju_kg_faculty_network/zju_kg_zhangningyu_network.md
+          - 张文: zju_kg_faculty_network/zju_kg_zhangwen_network.md
+          - 张强: zju_kg_faculty_network/zju_kg_zhangqiang_network.md
+          - 邓淑敏: zju_kg_faculty_network/zju_kg_dengshumin_network.md
+          - 郑国轴: zju_kg_faculty_network/zju_kg_zhengguozhou_network.md
+      - VIPA 课题组:
+          - 总览: zju_vipa_faculty_network/README.md
+          - 宋明黎: zju_vipa_faculty_network/zju_vipa_songmingli_network.md
+          - 王灿: zju_vipa_faculty_network/zju_vipa_wangcan_network.md
+          - 冯尊磊: zju_vipa_faculty_network/zju_vipa_fengzunlei_network.md
+          - 宋杰: zju_vipa_faculty_network/zju_vipa_songjie_network.md
+          - 陈佳伟: zju_vipa_faculty_network/zju_vipa_chenjiawei_network.md
+          - 宛袁玉: zju_vipa_faculty_network/zju_vipa_wanyuanyu_network.md
+          - 贝毅君: zju_vipa_faculty_network/zju_vipa_beiyijun_network.md
+      - 杨莹春课题组:
+          - 总览: zju_yyc_faculty_network/README.md
+          - 杨莹春: zju_yyc_faculty_network/zju_yyc_yangyingchun_network.md
+      - 赵洲生成式人工智能课题组:
+          - 总览: zju_zhaozhou_faculty_network/README.md
+          - 赵洲: zju_zhaozhou_faculty_network/zju_zhaozhou_network.md
+  - NWPU:
+      - 首页: institutions/nwpu.md
+      - ASLP@NPU 实验室:
+          - 总览: nwpu_aslp_faculty_network/README.md
+          - 谢磊: nwpu_aslp_faculty_network/nwpu_aslp_xielei_network.md
+          - 蒋冬梅: nwpu_aslp_faculty_network/nwpu_aslp_jiangdongmei_network.md
+          - 付中华: nwpu_aslp_faculty_network/nwpu_aslp_fuzhonghua_network.md
+          - 张蓬: nwpu_aslp_faculty_network/nwpu_aslp_zhangpeng_network.md
+  - SHANGHAITECH:
+      - 首页: institutions/shanghaitech.md
+      - 屠可伟组:
+          - 总览: shanghaitech_tu_kewei_group_network/README.md
+          - 屠可伟: shanghaitech_tu_kewei_group_network/shanghaitech_tukewei_network.md
+  - SYSU:
+      - 首页: institutions/sysu.md
+      - HCP-Lab:
+          - 总览: sysu_hcp_faculty_network/README.md
+          - 林倞: sysu_hcp_faculty_network/sysu_hcp_linliang_network.md
+          - 梁小丹: sysu_hcp_faculty_network/sysu_hcp_liangxiaodan_network.md
+          - 李冠彬: sysu_hcp_faculty_network/sysu_hcp_liguanbin_network.md
+          - 王可泽: sysu_hcp_faculty_network/sysu_hcp_wangkeze_network.md
+          - 刘阳: sysu_hcp_faculty_network/sysu_hcp_liuyang_network.md
+          - 王广润: sysu_hcp_faculty_network/sysu_hcp_wangguangrun_network.md
+          - 杨思蓓: sysu_hcp_faculty_network/sysu_hcp_yangsibei_network.md
+          - 董浩业: sysu_hcp_faculty_network/sysu_hcp_donghaoye_network.md
+          - 魏朋旭: sysu_hcp_faculty_network/sysu_hcp_weipengshu_network.md
+          - 王州霞: sysu_hcp_faculty_network/sysu_hcp_wangzhouxia_network.md
   - Stanford:
       - 首页: institutions/stanford.md
       - MAST 实验室:
