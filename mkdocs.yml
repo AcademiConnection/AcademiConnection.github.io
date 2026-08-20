@@ -5,6 +5,8 @@ theme:
   language: zh
   features:
     - navigation.tabs
+    - navigation.sections
+    - navigation.expand
     - navigation.top
     - search.highlight
 
@@ -27,23 +29,181 @@ markdown_extensions:
 nav:
   - 首页: index.md
   - 南京大学:
-      - LAMDA 实验室: nju_lamda_faculty_network/README.md
-      - LANDS 实验室: nju_lands_faculty_network/README.md
+      - LAMDA 实验室:
+          - 总览: nju_lamda_faculty_network/README.md
+          - 周志华: nju_lamda_faculty_network/nju_lamda_zhouzhihua_network.md
+          - 高尉: nju_lamda_faculty_network/nju_lamda_gaowei_network.md
+          - 姜远: nju_lamda_faculty_network/nju_lamda_jiangyuan_network.md
+          - 黎铭: nju_lamda_faculty_network/nju_lamda_liming_network.md
+          - 李宇峰: nju_lamda_faculty_network/nju_lamda_liyufeng_network.md
+          - 钱超: nju_lamda_faculty_network/nju_lamda_qianchao_network.md
+          - 陈开明: nju_lamda_faculty_network/nju_lamda_chenkaiming_network.md
+          - 王魏: nju_lamda_faculty_network/nju_lamda_wangwei_network.md
+          - 吴建鑫: nju_lamda_faculty_network/nju_lamda_wujianxin_network.md
+          - 俞扬: nju_lamda_faculty_network/nju_lamda_yuyang_network.md
+          - 章宗长: nju_lamda_faculty_network/nju_lamda_zhangzongzhang_network.md
+          - 詹德川: nju_lamda_faculty_network/nju_lamda_zhandechuan_network.md
+          - 张利军: nju_lamda_faculty_network/nju_lamda_zhanglijun_network.md
+          - 王天佐: nju_lamda_faculty_network/nju_lamda_wangtianzuo_network.md
+          - 叶翰嘉: nju_lamda_faculty_network/nju_lamda_yehanjia_network.md
+          - 赵鹏: nju_lamda_faculty_network/nju_lamda_zhaopeng_network.md
+          - 谭志豪: nju_lamda_faculty_network/nju_lamda_tanzhihao_network.md
+          - 许天: nju_lamda_faculty_network/nju_lamda_xutian_network.md
+          - 袁雷: nju_lamda_faculty_network/nju_lamda_yuanlei_network.md
+          - 周大蔚: nju_lamda_faculty_network/nju_lamda_zhoudawei_network.md
+      - LANDS 实验室:
+          - 总览: nju_lands_faculty_network/README.md
+          - 陈贵海: nju_lands_faculty_network/nju_lands_chenguihai_network.md
+          - 窦万春: nju_lands_faculty_network/nju_lands_douwanchun_network.md
+          - 王炜: nju_lands_faculty_network/nju_lands_wangwei_network.md
+          - 田臣: nju_lands_faculty_network/nju_lands_tianchen_network.md
+          - 戴海鹏: nju_lands_faculty_network/nju_lands_daihaipeng_network.md
+          - 郑嘉琦: nju_lands_faculty_network/nju_lands_zhengjiaqi_network.md
+          - 顾荣: nju_lands_faculty_network/nju_lands_gurong_network.md
+          - 史书瑜: nju_lands_faculty_network/nju_lands_shishuyu_network.md
   - 北京大学:
-      - DAIR 实验室: pku_dair_faculty_network/README.md
-      - 刘璇哲团队: pku_liuxuanzhe_faculty_network/README.md
+      - DAIR 实验室:
+          - 总览: pku_dair_faculty_network/README.md
+          - 崔斌: pku_dair_faculty_network/pku_dair_cuibin_network.md
+          - 杨智: pku_dair_faculty_network/pku_dair_yangzhi_network.md
+      - 刘譞哲团队:
+          - 总览: pku_liuxuanzhe_faculty_network/README.md
+          - 梅宏: pku_liuxuanzhe_faculty_network/pku_liuxuanzhe_meihong_network.md
+          - 黄罡: pku_liuxuanzhe_faculty_network/pku_liuxuanzhe_huanggang_network.md
+          - 刘譞哲: pku_liuxuanzhe_faculty_network/pku_liuxuanzhe_liuxuanzhe_network.md
+          - 金鑫: pku_liuxuanzhe_faculty_network/pku_liuxuanzhe_jinxin_network.md
+          - 马郓: pku_liuxuanzhe_faculty_network/pku_liuxuanzhe_mayun_network.md
   - 中国人民大学:
-      - 高瓴人工智能学院: ruc_gsai_faculty_network/README.md
+      - 高瓴人工智能学院:
+          - 总览: ruc_gsai_faculty_network/README.md
+          - 文继荣: ruc_gsai_faculty_network/ruc_gsai_wenjirong_network.md
+          - 窦志成: ruc_gsai_faculty_network/ruc_gsai_douzhicheng_network.md
+          - 魏哲巍: ruc_gsai_faculty_network/ruc_gsai_weizhewei_network.md
+          - 孙浩: ruc_gsai_faculty_network/ruc_gsai_sunhao_network.md
+          - 赵鑫: ruc_gsai_faculty_network/ruc_gsai_zhaoxin_network.md
+          - 徐君: ruc_gsai_faculty_network/ruc_gsai_xujun_network.md
+          - 宋睿华: ruc_gsai_faculty_network/ruc_gsai_songruihua_network.md
+          - 毛佳昕: ruc_gsai_faculty_network/ruc_gsai_maojiaxin_network.md
+          - 王希廷: ruc_gsai_faculty_network/ruc_gsai_wangxiting_network.md
+          - 卢志武: ruc_gsai_faculty_network/ruc_gsai_luzhiwu_network.md
+          - 苏冰: ruc_gsai_faculty_network/ruc_gsai_subing_network.md
+          - 许洪腾: ruc_gsai_faculty_network/ruc_gsai_xuhongteng_network.md
+          - 刘勇: ruc_gsai_faculty_network/ruc_gsai_liuyong_network.md
+          - 黄文炳: ruc_gsai_faculty_network/ruc_gsai_huangwenbing_network.md
+          - 张骁: ruc_gsai_faculty_network/ruc_gsai_zhangxiao_network.md
+          - 陈旭: ruc_gsai_faculty_network/ruc_gsai_chenxu_network.md
+          - 李崇轩: ruc_gsai_faculty_network/ruc_gsai_lichongxuan_network.md
+          - 林衍凯: ruc_gsai_faculty_network/ruc_gsai_linyankai_network.md
+          - 曹朝: ruc_gsai_faculty_network/ruc_gsai_caozhao_network.md
+          - 祁琦: ruc_gsai_faculty_network/ruc_gsai_qiqi_network.md
+          - 王子贺: ruc_gsai_faculty_network/ruc_gsai_wangzihe_network.md
+          - 沈蔚然: ruc_gsai_faculty_network/ruc_gsai_shenweiran_network.md
+          - 胡迪: ruc_gsai_faculty_network/ruc_gsai_hudi_network.md
+          - 周骁: ruc_gsai_faculty_network/ruc_gsai_zhouxiao_network.md
+          - 马彦彪: ruc_gsai_faculty_network/ruc_gsai_mayanbiao_network.md
+          - 高欣: ruc_gsai_faculty_network/ruc_gsai_gaoxin_network.md
   - 山东大学:
-      - IRC 实验室: sdu_irc_faculty_network/README.md
+      - IRC 实验室:
+          - 总览: sdu_irc_faculty_network/README.md
+          - 屠长河: sdu_irc_faculty_network/sdu_irc_tuchanghe_network.md
+          - 辛士庆: sdu_irc_faculty_network/sdu_irc_xinshiqing_network.md
+          - 吕琳: sdu_irc_faculty_network/sdu_irc_lvlin_network.md
+          - 周元峰: sdu_irc_faculty_network/sdu_irc_zhouyuanfeng_network.md
+          - 孟祥旭: sdu_irc_faculty_network/sdu_irc_mengxiangxu_network.md
+          - 李曼祎: sdu_irc_faculty_network/sdu_irc_limanyi_network.md
+          - 钟凡: sdu_irc_faculty_network/sdu_irc_zhongfan_network.md
+          - 曾琼: sdu_irc_faculty_network/sdu_irc_zengqiong_network.md
   - 上海交通大学:
-      - IPADS 实验室: sjtu_ipads_faculty_network/README.md
+      - IPADS 实验室:
+          - 总览: sjtu_ipads_faculty_network/README.md
+          - 陈海波: sjtu_ipads_faculty_network/sjtu_ipads_chenhaibo_network.md
+          - 臧斌宇: sjtu_ipads_faculty_network/sjtu_ipads_zangbinyu_network.md
+          - 陈榕: sjtu_ipads_faculty_network/sjtu_ipads_chenrong_network.md
+          - 夏虞斌: sjtu_ipads_faculty_network/sjtu_ipads_xiayubin_network.md
+          - 王肇国: sjtu_ipads_faculty_network/sjtu_ipads_wangzhaoguo_network.md
+          - 糜泽羽: sjtu_ipads_faculty_network/sjtu_ipads_mizeyu_network.md
+          - 吴明瑜: sjtu_ipads_faculty_network/sjtu_ipads_wumingyu_network.md
+          - 魏星达: sjtu_ipads_faculty_network/sjtu_ipads_weixingda_network.md
+          - 古金宇: sjtu_ipads_faculty_network/sjtu_ipads_gujinyu_network.md
+          - 华志超: sjtu_ipads_faculty_network/sjtu_ipads_huazhichao_network.md
+          - 董明凯: sjtu_ipads_faculty_network/sjtu_ipads_dongmingkai_network.md
+          - 杜冬冬: sjtu_ipads_faculty_network/sjtu_ipads_dudongdong_network.md
+          - 冯二虎: sjtu_ipads_faculty_network/sjtu_ipads_fengerhu_network.md
+          - 余炀: sjtu_ipads_faculty_network/sjtu_ipads_yuyang_network.md
   - 清华大学:
-      - HPC 实验室: thu_hpc_faculty_network/README.md
-      - KEG 实验室: tsinghua_keg_faculty_network/README.md
+      - HPC 实验室:
+          - 总览: thu_hpc_faculty_network/README.md
+          - 郑纬民: thu_hpc_faculty_network/thu_hpc_zhengweimin_network.md
+          - 翟季冬: thu_hpc_faculty_network/thu_hpc_zhaijidong_network.md
+          - 陈文光: thu_hpc_faculty_network/thu_hpc_chenwenguang_network.md
+          - 武永卫: thu_hpc_faculty_network/thu_hpc_wuyongwei_network.md
+          - 舒继武: thu_hpc_faculty_network/thu_hpc_shujiwu_network.md
+          - 杨广文: thu_hpc_faculty_network/thu_hpc_yangguangwen_network.md
+          - 薛巍: thu_hpc_faculty_network/thu_hpc_xuewei_network.md
+          - 钱学海: thu_hpc_faculty_network/thu_hpc_qianxuehai_network.md
+          - 张悠慧: thu_hpc_faculty_network/thu_hpc_zhangyouhui_network.md
+          - 汪东升: thu_hpc_faculty_network/thu_hpc_wangdongsheng_network.md
+          - 陈康: thu_hpc_faculty_network/thu_hpc_chenkang_network.md
+          - 陈婧: thu_hpc_faculty_network/thu_hpc_chenjing_network.md
+          - 李兆麟: thu_hpc_faculty_network/thu_hpc_lizhaolin_network.md
+          - 章明星: thu_hpc_faculty_network/thu_hpc_zhangmingxing_network.md
+          - 陆游游: thu_hpc_faculty_network/thu_hpc_luyouyou_network.md
+          - 张广艳: thu_hpc_faculty_network/thu_hpc_zhangguangyan_network.md
+          - 黄震春: thu_hpc_faculty_network/thu_hpc_huangzhenchun_network.md
+          - 姜进磊: thu_hpc_faculty_network/thu_hpc_jiangjinlei_network.md
+          - 余宏亮: thu_hpc_faculty_network/thu_hpc_yuhongliang_network.md
+          - 赵颖: thu_hpc_faculty_network/thu_hpc_zhaoying_network.md
+          - 鞠大鹏: thu_hpc_faculty_network/thu_hpc_judapeng_network.md
+          - 韩旭: thu_hpc_faculty_network/thu_hpc_hanxu_network.md
+          - 金煜阳: thu_hpc_faculty_network/thu_hpc_jinyuyang_network.md
+          - 渠鹏: thu_hpc_faculty_network/thu_hpc_qupeng_network.md
+          - 闪英迪: thu_hpc_faculty_network/thu_hpc_shanyingdi_network.md
+          - 王豪杰: thu_hpc_faculty_network/thu_hpc_wanghaojie_network.md
+          - 赵文来: thu_hpc_faculty_network/thu_hpc_zhaowenlai_network.md
+      - KEG 实验室:
+          - 总览: tsinghua_keg_faculty_network/README.md
+          - 唐杰: tsinghua_keg_faculty_network/tsinghua_keg_jietang_network.md
+          - 李涓子: tsinghua_keg_faculty_network/tsinghua_keg_lijuanzi_network.md
+          - 许斌: tsinghua_keg_faculty_network/tsinghua_keg_xubin_network.md
+          - 东昱晓: tsinghua_keg_faculty_network/tsinghua_keg_dongyuxiao_network.md
+          - 侯磊: tsinghua_keg_faculty_network/tsinghua_keg_houlei_network.md
   - 中国科学技术大学:
-      - GCL 实验室: ustc_gcl_faculty_network/README.md
+      - GCL 实验室:
+          - 总览: ustc_gcl_faculty_network/README.md
+          - 刘利刚: ustc_gcl_faculty_network/ustc_gcl_liuligang_network.md
+          - 陈发来: ustc_gcl_faculty_network/ustc_gcl_chenfalai_network.md
+          - 邓建松: ustc_gcl_faculty_network/ustc_gcl_dengjiansong_network.md
+          - 陈仁杰: ustc_gcl_faculty_network/ustc_gcl_chenrenjie_network.md
+          - 陈雪锦: ustc_gcl_faculty_network/ustc_gcl_chenxuejin_network.md
+          - 杨周旺: ustc_gcl_faculty_network/ustc_gcl_yangzhouwang_network.md
+          - 张举勇: ustc_gcl_faculty_network/ustc_gcl_zhangjuyong_network.md
+          - 李新: ustc_gcl_faculty_network/ustc_gcl_lixin_network.md
+          - 傅孝明: ustc_gcl_faculty_network/ustc_gcl_fuxiaoming_network.md
+          - 黄章进: ustc_gcl_faculty_network/ustc_gcl_huangzhangjin_network.md
+          - 童伟华: ustc_gcl_faculty_network/ustc_gcl_tongweihua_network.md
+          - 吴超: ustc_gcl_faculty_network/ustc_gcl_wuchao_network.md
+          - 方清: ustc_gcl_faculty_network/ustc_gcl_fangqing_network.md
+          - 郭玉东: ustc_gcl_faculty_network/ustc_gcl_guoyudong_network.md
+          - 胡银雷: ustc_gcl_faculty_network/ustc_gcl_huyinlei_network.md
+          - 宋艳枝: ustc_gcl_faculty_network/ustc_gcl_songyanzhi_network.md
+          - 吴天: ustc_gcl_faculty_network/ustc_gcl_wutian_network.md
+          - 翟晓雅: ustc_gcl_faculty_network/ustc_gcl_zhaixiaoya_network.md
   - 浙江大学:
-      - ARCLAB 实验室: zju_arclab_faculty_network/README.md
+      - ARCLAB 实验室:
+          - 总览: zju_arclab_faculty_network/README.md
+          - 陈文智: zju_arclab_faculty_network/zju_arclab_chenwenzhi_network.md
+          - 张紫徽: zju_arclab_faculty_network/zju_arclab_zhangzihui_network.md
+          - 王总辉: zju_arclab_faculty_network/zju_arclab_wangzonghui_network.md
+          - 魏成坤: zju_arclab_faculty_network/zju_arclab_weichengkun_network.md
+          - 纪守领: zju_arclab_faculty_network/zju_arclab_jishouling_network.md
+          - 施青松: zju_arclab_faculty_network/zju_arclab_shiqingsong_network.md
+          - 陈建海: zju_arclab_faculty_network/zju_arclab_chenjianhai_network.md
+          - 王则可: zju_arclab_faculty_network/zju_arclab_wangzeke_network.md
   - Stanford University:
-      - MAST 实验室: stanford_mast_faculty_network/README.md
+      - MAST 实验室:
+          - 总览: stanford_mast_faculty_network/README.md
+          - Christos Kozyrakis: stanford_mast_faculty_network/stanford_mast_kozyrakis_network.md
+          - Daniel Sanchez: stanford_mast_faculty_network/stanford_mast_sanchez_network.md
+          - Adam Belay: stanford_mast_faculty_network/stanford_mast_belay_network.md
+          - Christina Delimitrou: stanford_mast_faculty_network/stanford_mast_delimitrou_network.md
+          - Mingyu Gao (高鸣宇): stanford_mast_faculty_network/stanford_mast_gao_network.md
