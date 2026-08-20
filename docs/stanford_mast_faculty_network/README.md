@@ -10,11 +10,11 @@ Stanford MAST Lab 是一个以 Christos Kozyrakis 教授为唯一 PI 的 single-
 
 | 姓名 | 职位 | 现任职机构 | 博士毕业院校/年份 | 研究方向 | 报告文件 |
 |------|------|-----------|-------------------|---------|----------|
-| Christos Kozyrakis | Professor | Stanford University (EE & CS) | UC Berkeley, 2002 | 计算机体系结构、云计算、AI系统 | stanford_mast_kozyrakis_network.md |
-| Daniel Sanchez | Professor | MIT EECS / CSAIL | Stanford, 2012 | 计算机体系结构、大规模多核、缓存层次 | stanford_mast_sanchez_network.md |
-| Adam Belay | Associate Professor | MIT EECS / CSAIL | Stanford, 2016 | 操作系统抽象、高性能网络、虚拟化 | stanford_mast_belay_network.md |
-| Christina Delimitrou | Associate Professor | MIT EECS / CSAIL | Stanford, 2015 | 云计算系统、数据中心资源管理 | stanford_mast_delimitrou_network.md |
-| Mingyu Gao (高鸣宇) | Associate Professor | 清华大学交叉信息研究院 (IIIS) | Stanford, 2018 | 体系结构与系统、高效内存架构、AI加速 | stanford_mast_gao_network.md |
+| Christos Kozyrakis | Professor | Stanford University (EE & CS) | UC Berkeley, 2002 | 计算机体系结构、云计算、AI系统 | [stanford_mast_kozyrakis_network.md](stanford_mast_kozyrakis_network.md) |
+| Daniel Sanchez | Professor | MIT EECS / CSAIL | Stanford, 2012 | 计算机体系结构、大规模多核、缓存层次 | [stanford_mast_sanchez_network.md](stanford_mast_sanchez_network.md) |
+| Adam Belay | Associate Professor | MIT EECS / CSAIL | Stanford, 2016 | 操作系统抽象、高性能网络、虚拟化 | [stanford_mast_belay_network.md](stanford_mast_belay_network.md) |
+| Christina Delimitrou | Associate Professor | MIT EECS / CSAIL | Stanford, 2015 | 云计算系统、数据中心资源管理 | [stanford_mast_delimitrou_network.md](stanford_mast_delimitrou_network.md) |
+| Mingyu Gao (高鸣宇) | Associate Professor | 清华大学交叉信息研究院 (IIIS) | Stanford, 2018 | 体系结构与系统、高效内存架构、AI加速 | [stanford_mast_gao_network.md](stanford_mast_gao_network.md) |
 
 ---
 

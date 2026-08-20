@@ -11,11 +11,11 @@
 
 | 姓名 | 职位 | 在团队中的角色 | 报告文件 |
 |---|---|---|---|
-| 梅宏 | 中国科学院院士、教授 | 刘譞哲博士导师；可信软件平台研究组学术带头人；团队精神领袖与师承源头 | pku_liuxuanzhe_meihong_network.md |
-| 黄罡 | 教授 | 可信软件平台研究组学术带头人（与梅宏并列）；刘譞哲长期合作伙伴，二十年间合著论文占其个人产出近四成 | pku_liuxuanzhe_huanggang_network.md |
-| 刘譞哲 | 博雅特聘教授 | 团队负责人；软件研究所副所长；北大-字节跳动豆包大模型系统软件联合实验室主任 | pku_liuxuanzhe_liuxuanzhe_network.md |
-| 金鑫 | 长聘副教授 | AI Infra系统软件方向与刘譞哲并列的共同负责人（"金鑫-刘譞哲团队"） | pku_liuxuanzhe_jinxin_network.md |
-| 马郓 | 助理教授、研究员 | 团队培养的青年学者代表；黄罡名义指导、刘譞哲实际指导下成长为独立教职 | pku_liuxuanzhe_mayun_network.md |
+| 梅宏 | 中国科学院院士、教授 | 刘譞哲博士导师；可信软件平台研究组学术带头人；团队精神领袖与师承源头 | [pku_liuxuanzhe_meihong_network.md](pku_liuxuanzhe_meihong_network.md) |
+| 黄罡 | 教授 | 可信软件平台研究组学术带头人（与梅宏并列）；刘譞哲长期合作伙伴，二十年间合著论文占其个人产出近四成 | [pku_liuxuanzhe_huanggang_network.md](pku_liuxuanzhe_huanggang_network.md) |
+| 刘譞哲 | 博雅特聘教授 | 团队负责人；软件研究所副所长；北大-字节跳动豆包大模型系统软件联合实验室主任 | [pku_liuxuanzhe_liuxuanzhe_network.md](pku_liuxuanzhe_liuxuanzhe_network.md) |
+| 金鑫 | 长聘副教授 | AI Infra系统软件方向与刘譞哲并列的共同负责人（"金鑫-刘譞哲团队"） | [pku_liuxuanzhe_jinxin_network.md](pku_liuxuanzhe_jinxin_network.md) |
+| 马郓 | 助理教授、研究员 | 团队培养的青年学者代表；黄罡名义指导、刘譞哲实际指导下成长为独立教职 | [pku_liuxuanzhe_mayun_network.md](pku_liuxuanzhe_mayun_network.md) |
 
 需要特别说明的是，官方"可信软件平台研究组"骨干名单实际还包括陈向群、王腾蛟、高军、崔斌、曹东刚、郝丹、张颖、陈薇等多位教师，但他们与刘譞哲的直接合作关系较弱、研究方向差异较大（数据库、分布式系统等其他分支），故未纳入本次"刘譞哲团队"报告范围，以保持聚焦。
 

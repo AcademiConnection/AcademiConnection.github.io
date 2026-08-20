@@ -8,24 +8,24 @@
 
 | 姓名 | 职位 | 主要研究方向 | 博士毕业院校/年份 | 报告文件 |
 |------|------|--------------|--------------------|----------|
-| 刘利刚 | 教授（实验室负责人） | 计算机图形学、几何处理 | 浙江大学，2001 | ustc_gcl_liuligang_network.md |
-| 陈发来 | 教授 | 计算机辅助几何设计、样条理论 | 中国科学技术大学 | ustc_gcl_chenfalai_network.md |
-| 邓建松 | 教授（现任校党委常委、副校长） | 计算机辅助几何设计、样条空间 | 中国科学技术大学，1998 | ustc_gcl_dengjiansong_network.md |
-| 陈仁杰 | 教授 | 几何处理、数字几何 | 浙江大学，2021 | ustc_gcl_chenrenjie_network.md |
-| 陈雪锦 | 教授 | 计算机视觉、图形学 | MSRA/中国科学技术大学 | ustc_gcl_chenxuejin_network.md |
-| 杨周旺 | 教授 | 增材制造几何、拓扑优化 | 中国科学技术大学 | ustc_gcl_yangzhouwang_network.md |
-| 张举勇 | 教授 | 三维重建、几何处理 | 南洋理工大学 | ustc_gcl_zhangjuyong_network.md |
-| 李新 | 教授 | 计算机辅助几何设计 | 中国科学技术大学，2008 | ustc_gcl_lixin_network.md |
-| 傅孝明 | 副教授 | 几何处理、网格生成 | MSRA联合培养（郭百宁、刘洋） | ustc_gcl_fuxiaoming_network.md |
-| 黄章进 | 副教授 | 计算机辅助几何设计 | 中国科学技术大学 | ustc_gcl_huangzhangjin_network.md |
-| 童伟华 | 副教授 | 计算几何、优化方法 | 中国科学技术大学 | ustc_gcl_tongweihua_network.md |
-| 吴超 | 高级工程师（实验室副主任） | 图形系统工程化 | — | ustc_gcl_wuchao_network.md |
-| 方清 | 特任副研究员 | 几何处理 | 中国科学技术大学 | ustc_gcl_fangqing_network.md |
-| 郭玉东 | 特任副研究员 | 计算机图形学 | — | ustc_gcl_guoyudong_network.md |
-| 胡银雷 | 特任副研究员 | 生物信息学（单细胞测序、空间转录组学） | 中国科学技术大学（陈发来、瞿昆双导师） | ustc_gcl_huyinlei_network.md |
-| 宋艳枝 | 特任副研究员 | 增材制造几何 | 中国科学技术大学（杨周旺） | ustc_gcl_songyanzhi_network.md |
-| 吴天 | 特任副研究员 | 几何处理 | 中国科学技术大学（麻希南），少年班校友 | ustc_gcl_wutian_network.md |
-| 翟晓雅 | 特任副研究员（USTC TopOpt Group负责人） | 拓扑优化 | 中国科学技术大学（陈发来） | ustc_gcl_zhaixiaoya_network.md |
+| 刘利刚 | 教授（实验室负责人） | 计算机图形学、几何处理 | 浙江大学，2001 | [ustc_gcl_liuligang_network.md](ustc_gcl_liuligang_network.md) |
+| 陈发来 | 教授 | 计算机辅助几何设计、样条理论 | 中国科学技术大学 | [ustc_gcl_chenfalai_network.md](ustc_gcl_chenfalai_network.md) |
+| 邓建松 | 教授（现任校党委常委、副校长） | 计算机辅助几何设计、样条空间 | 中国科学技术大学，1998 | [ustc_gcl_dengjiansong_network.md](ustc_gcl_dengjiansong_network.md) |
+| 陈仁杰 | 教授 | 几何处理、数字几何 | 浙江大学，2021 | [ustc_gcl_chenrenjie_network.md](ustc_gcl_chenrenjie_network.md) |
+| 陈雪锦 | 教授 | 计算机视觉、图形学 | MSRA/中国科学技术大学 | [ustc_gcl_chenxuejin_network.md](ustc_gcl_chenxuejin_network.md) |
+| 杨周旺 | 教授 | 增材制造几何、拓扑优化 | 中国科学技术大学 | [ustc_gcl_yangzhouwang_network.md](ustc_gcl_yangzhouwang_network.md) |
+| 张举勇 | 教授 | 三维重建、几何处理 | 南洋理工大学 | [ustc_gcl_zhangjuyong_network.md](ustc_gcl_zhangjuyong_network.md) |
+| 李新 | 教授 | 计算机辅助几何设计 | 中国科学技术大学，2008 | [ustc_gcl_lixin_network.md](ustc_gcl_lixin_network.md) |
+| 傅孝明 | 副教授 | 几何处理、网格生成 | MSRA联合培养（郭百宁、刘洋） | [ustc_gcl_fuxiaoming_network.md](ustc_gcl_fuxiaoming_network.md) |
+| 黄章进 | 副教授 | 计算机辅助几何设计 | 中国科学技术大学 | [ustc_gcl_huangzhangjin_network.md](ustc_gcl_huangzhangjin_network.md) |
+| 童伟华 | 副教授 | 计算几何、优化方法 | 中国科学技术大学 | [ustc_gcl_tongweihua_network.md](ustc_gcl_tongweihua_network.md) |
+| 吴超 | 高级工程师（实验室副主任） | 图形系统工程化 | — | [ustc_gcl_wuchao_network.md](ustc_gcl_wuchao_network.md) |
+| 方清 | 特任副研究员 | 几何处理 | 中国科学技术大学 | [ustc_gcl_fangqing_network.md](ustc_gcl_fangqing_network.md) |
+| 郭玉东 | 特任副研究员 | 计算机图形学 | — | [ustc_gcl_guoyudong_network.md](ustc_gcl_guoyudong_network.md) |
+| 胡银雷 | 特任副研究员 | 生物信息学（单细胞测序、空间转录组学） | 中国科学技术大学（陈发来、瞿昆双导师） | [ustc_gcl_huyinlei_network.md](ustc_gcl_huyinlei_network.md) |
+| 宋艳枝 | 特任副研究员 | 增材制造几何 | 中国科学技术大学（杨周旺） | [ustc_gcl_songyanzhi_network.md](ustc_gcl_songyanzhi_network.md) |
+| 吴天 | 特任副研究员 | 几何处理 | 中国科学技术大学（麻希南），少年班校友 | [ustc_gcl_wutian_network.md](ustc_gcl_wutian_network.md) |
+| 翟晓雅 | 特任副研究员（USTC TopOpt Group负责人） | 拓扑优化 | 中国科学技术大学（陈发来） | [ustc_gcl_zhaixiaoya_network.md](ustc_gcl_zhaixiaoya_network.md) |
 
 共18位教师，覆盖教授、副教授、特任副研究员及高级工程师等各职级，是目前国内高校中规模较大、学术梯队较完整的计算机图形学/几何计算团队之一。
 

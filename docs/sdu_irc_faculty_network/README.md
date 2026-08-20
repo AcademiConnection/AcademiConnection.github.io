@@ -10,14 +10,14 @@
 
 | 姓名 | 职位 | 所在学院 | 主要研究方向 | 博士毕业院校/年份 | 报告文件 |
 |------|------|---------|-------------|-------------------|----------|
-| 屠长河 | 教授、博导 | 计算机科学与技术学院 | 计算机图形学、数字几何处理、3D视觉 | 山东大学，2003 | sdu_irc_tuchanghe_network.md |
-| 辛士庆 | 教授、博导 | 计算机科学与技术学院 | 计算几何、几何处理、机器人路径规划 | 浙江大学，2009 | sdu_irc_xinshiqing_network.md |
-| 吕琳 | 教授、博导（齐鲁青年学者） | 计算机科学与技术学院 | 计算机图形学、面向智能制造的几何计算、3D打印 | 香港大学，2011 | sdu_irc_lvlin_network.md |
-| 周元峰 | 教授、博导、副院长 | 软件学院 | 智能图形图像处理、虚拟现实、计算医学 | 山东大学，2009 | sdu_irc_zhouyuanfeng_network.md |
-| 孟祥旭 | 教授、博导（泰山学者） | 计算机科学与技术学院 | 人机交互与虚拟现实、计算机图形学、CAD | 中科院计算所，1998 | sdu_irc_mengxiangxu_network.md |
-| 李曼祎 | 副教授 | 软件学院 | 计算机图形学、三维视觉、AI | 山东大学，2018 | sdu_irc_limanyi_network.md |
-| 钟凡 | 副教授 | 计算机科学与技术学院 | 计算机视觉、VR/AR | 浙江大学，2010 | sdu_irc_zhongfan_network.md |
-| 曾琼 | 副研究员 | 计算机科学与技术学院 | 计算机图形学与数据可视化 | 山东大学 | sdu_irc_zengqiong_network.md |
+| 屠长河 | 教授、博导 | 计算机科学与技术学院 | 计算机图形学、数字几何处理、3D视觉 | 山东大学，2003 | [sdu_irc_tuchanghe_network.md](sdu_irc_tuchanghe_network.md) |
+| 辛士庆 | 教授、博导 | 计算机科学与技术学院 | 计算几何、几何处理、机器人路径规划 | 浙江大学，2009 | [sdu_irc_xinshiqing_network.md](sdu_irc_xinshiqing_network.md) |
+| 吕琳 | 教授、博导（齐鲁青年学者） | 计算机科学与技术学院 | 计算机图形学、面向智能制造的几何计算、3D打印 | 香港大学，2011 | [sdu_irc_lvlin_network.md](sdu_irc_lvlin_network.md) |
+| 周元峰 | 教授、博导、副院长 | 软件学院 | 智能图形图像处理、虚拟现实、计算医学 | 山东大学，2009 | [sdu_irc_zhouyuanfeng_network.md](sdu_irc_zhouyuanfeng_network.md) |
+| 孟祥旭 | 教授、博导（泰山学者） | 计算机科学与技术学院 | 人机交互与虚拟现实、计算机图形学、CAD | 中科院计算所，1998 | [sdu_irc_mengxiangxu_network.md](sdu_irc_mengxiangxu_network.md) |
+| 李曼祎 | 副教授 | 软件学院 | 计算机图形学、三维视觉、AI | 山东大学，2018 | [sdu_irc_limanyi_network.md](sdu_irc_limanyi_network.md) |
+| 钟凡 | 副教授 | 计算机科学与技术学院 | 计算机视觉、VR/AR | 浙江大学，2010 | [sdu_irc_zhongfan_network.md](sdu_irc_zhongfan_network.md) |
+| 曾琼 | 副研究员 | 计算机科学与技术学院 | 计算机图形学与数据可视化 | 山东大学 | [sdu_irc_zengqiong_network.md](sdu_irc_zengqiong_network.md) |
 
 注：汪云海教授曾为IRC核心成员（可视化方向），已于2023年12月转入中国人民大学。陈宝权教授为IRC创始人，现已转入北京大学。二人在各报告中作为历史成员提及。
 
