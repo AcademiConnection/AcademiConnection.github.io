@@ -164,6 +164,62 @@ nav:
           - 总览: pku_qct_faculty_network/README.md
           - 袁骁: pku_qct_faculty_network/pku_qct_yuanxiao_network.md
           - 李彤阳: pku_qct_faculty_network/pku_qct_litongyang_network.md
+      - MPRC 系统结构研究所:
+          - 总览: pku_cs_arch_faculty_network/README.md
+          - 程旭: pku_cs_arch_faculty_network/pku_cs_arch_chengxu_network.md
+          - 陆俊林: pku_cs_arch_faculty_network/pku_cs_arch_lujunlin_network.md
+          - 刘先华: pku_cs_arch_faculty_network/pku_cs_arch_liuxianhua_network.md
+          - 佟冬: pku_cs_arch_faculty_network/pku_cs_arch_tongdong_network.md
+          - 易江芳: pku_cs_arch_faculty_network/pku_cs_arch_yijiangfang_network.md
+          - 刘锋: pku_cs_arch_faculty_network/pku_cs_arch_liufeng_network.md
+      - CECA 高能效计算与应用中心:
+          - 总览: pku_cs_ceca_faculty_network/README.md
+          - 丛京生: pku_cs_ceca_faculty_network/pku_cs_ceca_congjingsheng_network.md
+          - 梁云: pku_cs_ceca_faculty_network/pku_cs_ceca_liangyun_network.md
+          - 孙广宇: pku_cs_ceca_faculty_network/pku_cs_ceca_sunguangyu_network.md
+          - 林亦波: pku_cs_ceca_faculty_network/pku_cs_ceca_linyibo_network.md
+      - ICL 计算语言学研究所:
+          - 总览: pku_cs_icl_faculty_network/README.md
+          - 王厚峰: pku_cs_icl_faculty_network/pku_cs_icl_wanghoufeng_network.md
+          - 穗志方: pku_cs_icl_faculty_network/pku_cs_icl_suizhifang_network.md
+          - 常宝宝: pku_cs_icl_faculty_network/pku_cs_icl_changbaobao_network.md
+          - 李素建: pku_cs_icl_faculty_network/pku_cs_icl_lisujian_network.md
+          - 孙栩: pku_cs_icl_faculty_network/pku_cs_icl_sunxu_network.md
+          - 吴云芳: pku_cs_icl_faculty_network/pku_cs_icl_wuyunfang_network.md
+          - 胡俊峰: pku_cs_icl_faculty_network/pku_cs_icl_hujunfeng_network.md
+          - 潘亮铭: pku_cs_icl_faculty_network/pku_cs_icl_panliangming_network.md
+      - NEEC 网络与高能效计算研究所:
+          - 总览: pku_cs_net_faculty_network/README.md
+          - 罗英伟: pku_cs_net_faculty_network/pku_cs_net_luoyingwei_network.md
+          - 李文新: pku_cs_net_faculty_network/pku_cs_net_liwenxin_network.md
+          - 汪小林: pku_cs_net_faculty_network/pku_cs_net_wangxiaolin_network.md
+          - 罗国杰: pku_cs_net_faculty_network/pku_cs_net_luoguojie_network.md
+          - 王韬: pku_cs_net_faculty_network/pku_cs_net_wangtao_network.md
+          - 陈翔: pku_cs_net_faculty_network/pku_cs_net_chenxiang_network.md
+          - 闫宏飞: pku_cs_net_faculty_network/pku_cs_net_yanhongfei_network.md
+          - 许辰人: pku_cs_net_faculty_network/pku_cs_net_xuchenren_network.md
+      - 软件研究所（软件工程国家工程研究中心）:
+          - 总览: pku_cs_sei_faculty_network/README.md
+          - 杨芙清: pku_cs_sei_faculty_network/pku_cs_sei_yangfuqing_network.md
+          - 谢冰: pku_cs_sei_faculty_network/pku_cs_sei_xiebing_network.md
+          - 张路: pku_cs_sei_faculty_network/pku_cs_sei_zhanglu_network.md
+          - 李戈: pku_cs_sei_faculty_network/pku_cs_sei_lige_network.md
+          - 熊英飞: pku_cs_sei_faculty_network/pku_cs_sei_xiongyingfei_network.md
+          - 周明辉: pku_cs_sei_faculty_network/pku_cs_sei_zhouminghui_network.md
+      - 软件工程研究所（SEI）:
+          - 总览: pku_sei_faculty_network/README.md
+          - 杨芙清: pku_sei_faculty_network/pku_sei_yangfuqing_network.md
+          - 梅宏: pku_sei_faculty_network/pku_sei_meihong_network.md
+          - 金芝: pku_sei_faculty_network/pku_sei_zhijin_network.md
+          - 谢冰: pku_sei_faculty_network/pku_sei_xiebing_network.md
+          - 张路: pku_sei_faculty_network/pku_sei_zhanglu_network.md
+          - 黄罡: pku_sei_faculty_network/pku_sei_huanggang_network.md
+          - 谢涛: pku_sei_faculty_network/pku_sei_xietao_network.md
+          - 熊英飞: pku_sei_faculty_network/pku_sei_xiongyingfei_network.md
+          - 郝丹: pku_sei_faculty_network/pku_sei_haodan_network.md
+          - 周明辉: pku_sei_faculty_network/pku_sei_zhouminghui_network.md
+          - 张大庆: pku_sei_faculty_network/pku_sei_zhangdaqing_network.md
+          - 焦文品: pku_sei_faculty_network/pku_sei_jiaowenpin_network.md
   - RUC:
       - 首页: institutions/ruc.md
       - 高瓴人工智能学院:
