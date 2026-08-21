@@ -13,3 +13,9 @@
 | NEEC 网络与高能效计算研究所 | [查看总览](../pku_cs_net_faculty_network/README.md) |
 | 软件研究所（软件工程国家工程研究中心） | [查看总览](../pku_cs_sei_faculty_network/README.md) |
 | 软件工程研究所（SEI） | [查看总览](../pku_sei_faculty_network/README.md) |
+| ADSP 现代信号与数据处理实验室 | [查看总览](../pku_adsp_faculty_network/README.md) |
+| 具身感知与交互 / PKU-Agibot Lab | [查看总览](../pku_embodied_faculty_network/README.md) |
+| FNL 未来网络实验室 | [查看总览](../pku_fnl_faculty_network/README.md) |
+| Open-Sora 课题组 | [查看总览](../pku_opensora_faculty_network/README.md) |
+| PKU-ML 田永鸿课题组 | [查看总览](../pku_tianyonghong_group_network/README.md) |
+| VVT 视频与视觉技术研究所 | [查看总览](../pku_vvt_faculty_network/README.md) |

@@ -10,3 +10,10 @@
 | VIPA 课题组 | [查看总览](../zju_vipa_faculty_network/README.md) |
 | 杨莹春课题组 | [查看总览](../zju_yyc_faculty_network/README.md) |
 | 赵洲生成式人工智能课题组 | [查看总览](../zju_zhaozhou_faculty_network/README.md) |
+| CAD&CG 鲍虎军组 | [查看总览](../zju_baohujun_group_faculty_network/README.md) |
+| CAD&CG 全国重点实验室 | [查看总览](../zju_cadcg_faculty_network/README.md) |
+| CAD&CG 金小刚组 | [查看总览](../zju_jinxiaogang_group_faculty_network/README.md) |
+| CAD&CG 许威威组 | [查看总览](../zju_xuweiwei_group_faculty_network/README.md) |
+| CAD&CG 章国锋组 | [查看总览](../zju_zhangguofeng_group_faculty_network/README.md) |
+| 周昆组（GAPs） | [查看总览](../zju_zhoukun_group_faculty_network/README.md) |
+| CAD&CG 周晓巍组 | [查看总览](../zju_zhouxiaowei_group_faculty_network/README.md) |
