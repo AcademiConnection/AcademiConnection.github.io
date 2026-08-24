@@ -31,7 +31,7 @@
 **教育背景：**
 
 1. **2014.09 – 2018.07**：山东大学泰山学堂（Taishan College），计算机科学与技术专业，获学士学位。泰山学堂为山东大学拔尖人才培养基地。2018年获"山东大学优秀毕业生"（Outstanding Graduate Student of Shandong University）荣誉。
-2. **2018.09 – 2021.07**：山东大学计算机科学与技术学院（青岛校区）攻读硕士，联合指导教师为涂长贺（Changhe Tu）教授与李扬彦（Yangyan Li）教授，二者均为山东大学计算机图形学与三维视觉方向的知名学者。
+2. **2018.09 – 2021.07**：山东大学计算机科学与技术学院（青岛校区）攻读硕士，联合指导教师为屠长河（Changhe Tu）教授与Yangyan Li教授（中文名待核实，下文以Yangyan Li指称）。屠长河为山东大学二级教授、交叉研究中心（IRC）团队负责人、CCF CAD/CG专委会副主任委员，计算机图形学与数字几何处理专家（带领团队获SIGGRAPH 2023最佳论文奖，系国内科研单位首次）；Yangyan Li为山东大学教授，三维深度学习/图形学方向（其个人主页 yangyan.li）。
 3. **2021.09 – 2025.07**：北京大学计算机学院攻读博士（据其个人主页为北京校本部；导师李戈任职于深研院信息工程学院），导师为李戈（Ge Li）教授（北京大学计算机学院教授，人工智能与代码生成领域知名学者）。2024年获"北京大学优秀学者奖"（Outstanding Scholar Award of Peking University），2025年获"北京大学优秀毕业生"（Outstanding Graduates of Peking University）荣誉。
 
 **职业履历：**
@@ -64,19 +64,19 @@
 CVPR 2023 论文《Improving Graph Representation for Point Cloud Segmentation via Attentive Filtering》的第一作者，潘志一为第二作者；另在 AAAI 2024（LessIsMore）与 AAAI 2025（AADNet）两篇潘志一一作论文中署名。两人合作关系紧密、时间跨度长（2023–2025），推断为其博士期间同一课题组（李戈/高伟组）的师弟/师妹或密切合作的学生，是潘志一科研网络中的重要年轻合作者。其与天津大学ViL的具体关系待核实。
 
 ### 2. Haochen Sun（孙浩辰（音），推断为山东大学学生，论文合作者）
-TPAMI 2024（CC4S）与 TMM 2025 论文署名作者，山东大学背景合作者（TMM 2025 作者单位标注为山东大学），与蒋鹏、涂长贺课题组关联密切。推断为山东大学涂长贺/蒋鹏组学生，与潘志一存在跨校（北大-山大）合作指导关系。待核实。
+TPAMI 2024（CC4S）与 TMM 2025 论文署名作者，山东大学背景合作者（TMM 2025作者单位标注为山东大学），与蒋鹏、屠长河课题组关联密切。推断为山东大学屠长河/蒋鹏组学生，与潘志一存在跨校（北大-山大）合作指导关系。待核实。
 
 ### 3. Linxuan Xin 与 Zheng Zhang（推断为北京大学/南方科技大学方向学生）
 ICME 2025 论文《DreamPBR: Text-driven High-Resolution SVBRDF Generation with Multimodal Guidance》的第一、第二作者，潘志一署名中间作者（Duan Gao、Wei Gao 为通讯作者）。该工作属于材质生成方向，推断两位为其在北大深研院高伟组期间参与指导或合作的低年级学生。待核实。
 
 ### 4. Guangnan Wu（吴光楠（音），山东大学，ACCV 2020 合作者）
-ACCV 2020 论文《Bi-directional Attention for Joint Instance and Semantic Segmentation in Point Clouds》第一作者，其 GitHub 账号（pumpkinnan）托管该论文代码，推断为山东大学涂长贺/蒋鹏组学生，是潘志一硕士期间参与指导的早期合作学生。待核实。
+ACCV 2020 论文《Bi-directional Attention for Joint Instance and Semantic Segmentation in Point Clouds》第一作者，其 GitHub 账号（pumpkinnan）托管该论文代码，推断为山东大学屠长河/蒋鹏组学生，是潘志一硕士期间参与指导的早期合作学生。待核实。
 
 ### 5. Guoqing Liu（刘国庆（音），论文合作者）
 ICME 2024 论文《EpContrast: Effective Point-level Contrastive Learning for Large-scale Point Cloud Understanding》署名作者（潘志一一作、高伟通讯），推断为北大深研院或鹏城实验室相关学生合作者。待核实。
 
-### 6. Qiong Zeng（曾琼（音），山东大学，PR 2024 合作者）
-PR 2024 论文《Category-agnostic Semantic Edge Detection by Measuring Neural Representation Randomness》署名作者，并与其共享中国发明专利（CN113674297B"基于信息随机性测量的语义边缘检测方法及系统"），推断为山东大学合作学生。待核实。
+### 6. Qiong Zeng（曾琼，山东大学计算机学院教授，师门合作者）
+PR 2024 论文《Category-agnostic Semantic Edge Detection by Measuring Neural Representation Randomness》署名作者，并与其共享中国发明专利（CN113674297B"基于信息随机性测量的语义边缘检测方法及系统"）。曾琼并非学生辈合作者：她为山东大学计算机学院教授（2015年博士毕业于山东大学软件工程专业，师从屠长河，博士后合作导师为陈宝权，2025年9月起任教授），现为山东大学交叉研究中心（IRC）可视化方向成员，与潘志一属屠长河师门网络中的教师级合作关系（详见第四章4.2）。
 
 ### 7. Yunhan Wang（王云瀚（音），ICCV 2021 合作者）
 潘志一硕士期间代表作 ICCV 2021（scribble监督分割）署名作者，推断为山东大学时期同期学生。待核实。
@@ -93,7 +93,7 @@ PR 2024 论文《Category-agnostic Semantic Edge Detection by Measuring Neural R
 潘志一的师承脉络清晰，横跨山东大学与北京大学两大体系：
 
 - **博士导师：李戈（Ge Li）教授**，北京大学计算机学院（其任职于深研院信息工程学院）。李戈教授为北大深研院信息工程学院资深教授，长期从事人工智能、深度学习与代码智能（AI程序生成）研究，是国内代码大模型方向的代表性学者之一。潘志一博士期间的点云弱监督方向论文（NeurIPS 2024、AAAI 2024/2025、CVPR 2023）均与李戈联合发表，构成其学术产出的主干。
-- **硕士导师：涂长贺（Changhe Tu）教授**，山东大学计算机科学与技术学院，计算机图形学与三维几何处理专家；**联合导师：李扬彦（Yangyan Li）教授**，山东大学，三维深度学习/图形学方向（其个人主页 yangyan.li）。潘志一的图形学与三维视觉基础（ACCV 2020、TIP 2019 等）成形于此。
+- **硕士导师：屠长河（Changhe Tu）教授**，山东大学计算机科学与技术学院二级教授、交叉研究中心（IRC）团队负责人、CCF CAD/CG专委会副主任委员，计算机图形学与数字几何处理专家；**联合导师：Yangyan Li教授**，山东大学，三维深度学习/图形学方向（其个人主页 yangyan.li）。潘志一的图形学与三维视觉基础（ACCV 2020、TIP 2019 等）成形于此。
 - **重要背景：鹏城实验室访问学者（2021.09–2024.12）**，其博士主要论文的科研工作与鹏城实验室平台相关，参与国家科技创新2030重大项目（2020AAA0103501）。
 - **现属团队：冯伟（Wei Feng）教授**，天津大学智能与计算学部教授、视觉智能实验室（ViL）负责人。据潘志一个人主页，其2025年7月加入ViL，冯伟为其在天津大学的团队负责人（非学位导师关系，属聘用/团队归属关系）。
 
@@ -106,27 +106,28 @@ PR 2024 论文《Category-agnostic Semantic Edge Detection by Measuring Neural R
 | 高伟（Wei Gao） | 北京大学（深圳研究生院） | NeurIPS 2024、AAAI 2025/2024、ICME 2024/2025、CVPR 2023 等，多篇论文通讯作者，为其博士期间事实上的主要合作导师（co-advisor） | 6+篇 |
 | 李戈（Ge Li） | 北京大学 | 博士导师，NeurIPS 2024、AAAI 2025/2024、CVPR 2023 通讯作者 | 4+篇 |
 | 蒋鹏（Peng Jiang） | 山东大学 | ICCV 2021（通讯）、TIP 2019、PR 2024（通讯）、TPAMI 2024（通讯）、TMM 2025，硕士期间及之后长期深度合作 | 5+篇 |
-| 涂长贺（Changhe Tu） | 山东大学 | 硕士导师；TMM 2025（通讯）、TPAMI 2024、PR 2024、ACCV 2020（共同通讯）、共同发明专利 | 5+篇 |
+| 屠长河（Changhe Tu） | 山东大学 | 硕士导师；TMM 2025（通讯）、TPAMI 2024、PR 2024、ACCV 2020（共同通讯）、共同发明专利；山东大学二级教授、交叉研究中心（IRC）团队负责人 | 5+篇 |
 | Nan Zhang | 北京大学/鹏城实验室 | CVPR 2023 一作合作者，AAAI 2024/2025 合作者 | 3篇 |
 | 刘杉（Shan Liu） | 腾讯（Tencent，美洲） | AAAI 2024、AAAI 2025 合作者，产业界联系 | 2篇 |
 | Haochen Sun | 山东大学 | TPAMI 2024、TMM 2025 | 2篇 |
 | 李惕（Thomas H. Li） | 清华大学深圳国际研究生院（原清华-伯克利深圳学院背景，待核实当前单位） | ICME 2024、CVPR 2023 | 2篇 |
 | Anthony G. Cohn | 英国利兹大学（University of Leeds） | ICCV 2021，国际知名空间推理/计算机视觉学者 | 1篇 |
 | Nuno Vasconcelos | 美国加州大学圣地亚哥分校（UCSD） | TIP 2019 | 1篇 |
-| 陈宝权（Baoquan Chen） | 山东大学/北京大学 | TIP 2019，图形学知名学者 | 1篇 |
+| 陈宝权（Baoquan Chen） | 北京大学（曾任山东大学，IRC创始人） | TIP 2019，图形学知名学者 | 1篇 |
 | 凌海滨（Haibin Ling） | 天普大学/斯蒂文斯理工（美国） | TPAMI 2024 | 1篇 |
 | Roger Zimmermann | 新加坡国立大学（NUS） | TMM 2025 | 1篇 |
 | 彭京亮 | 山东大学 | TIP 2019（通讯） | 1篇 |
-| 李扬彦 | 山东大学 | 硕士联合导师（未见直接联合署名代表作，署名合作待核实） | — |
+| Yangyan Li | 山东大学 | 硕士联合导师（中文名待核实；未见直接联合署名代表作，署名合作待核实） | — |
+| 曾琼（Qiong Zeng） | 山东大学计算机学院 | PR 2024、共同发明专利CN113674297B；屠长河培养的博士（2015届），现为山大教授、IRC可视化方向成员 | 1篇+专利 |
 | Duan Gao（高端（音））、Jinfu Wei、Linxuan Xin、Zheng Zhang 等 | 深圳大学/北京大学等（待核实） | ICME 2025 DreamPBR 材质生成方向合作 | 各1篇 |
 
-另有 Jinming Cao、Qiong Zeng、Yunhan Wang、Guangnan Wu、Guoqing Liu 等学生辈合作者（见第三章）。
+另有 Jinming Cao、Yunhan Wang、Guangnan Wu、Guoqing Liu 等学生辈合作者（见第三章）。
 
 ### 4.3 合作网络图谱分析
 
 潘志一的学术合作网络呈现清晰的"三段式"演化结构：
 
-1. **山东大学阶段（2014–2021，图形学与三维视觉圈）**：核心圈为山东大学图形学群体——涂长贺、蒋鹏、李扬彦，并经由蒋鹏连接到国际学者 Nuno Vasconcelos（UCSD）、Anthony Cohn（利兹）、陈宝权（山大/PKU）等；成果以图像显著性检测（TIP 2019）、语义边缘检测、scribble监督分割（ICCV 2021）为主。该圈层至今仍在延续（TMM 2025、TPAMI 2024、PR 2024 均有山大合作者），显示其对师门网络的强维护。
+1. **山东大学阶段（2014–2021，图形学与三维视觉圈）**：核心圈为山东大学图形学群体——屠长河（IRC团队负责人）、蒋鹏、Yangyan Li，并经由蒋鹏连接到国际学者 Nuno Vasconcelos（UCSD）、Anthony Cohn（利兹）、陈宝权（北大，曾任山大IRC创始人）等；成果以图像显著性检测（TIP 2019）、语义边缘检测、scribble监督分割（ICCV 2021）为主。该圈层至今仍在延续（TMM 2025、TPAMI 2024、PR 2024 均有山大合作者），显示其对师门网络的强维护。
 2. **北京大学/鹏城实验室阶段（2021–2025，弱监督点云圈）**：核心圈为李戈、高伟（北大深研院）与学生辈 Nan Zhang 等，兼有产业界学者刘杉（腾讯）。该阶段产出密度最高（NeurIPS/AAAI/TPAMI/CVPR），完成了从"图像弱监督"到"点云弱监督"的方法论迁移，形成 DGNet、LessIsMore、AADNet 等系列开源工作，确立其在弱监督点云语义分割细分方向的学术标签。
 3. **天津大学ViL阶段（2025.07起，新起点）**：加入冯伟领衔的ViL实验室。ViL的"三维场景感知"方向与其点云专长高度互补；预计未来合作重心将转向天津大学本地网络（冯伟及其团队、以及ViL既有合作渠道）。截至报告时点，其以天津大学为第一单位的论文尚待出现，与冯伟的直接合著论文亦待观察。
 
@@ -161,7 +162,7 @@ PR 2024 论文《Category-agnostic Semantic Edge Detection by Measuring Neural R
 - 论文审稿人：IEEE TCSVT、IEEE TMM、Pattern Recognition（PR）、ICLR、CVPR、NeurIPS。
 
 **专利：**
-- 中国发明专利《基于信息随机性测量的语义边缘检测方法及系统》（CN113674297B，已授权），发明人：蒋鹏、潘志一、曾琼、涂长贺。
+- 中国发明专利《基于信息随机性测量的语义边缘检测方法及系统》（CN113674297B，已授权），发明人：蒋鹏、潘志一、曾琼、屠长河。
 
 **说明**：其尚无省部级/国家级科研奖项、学会专委会任职、期刊编委等记录的公开信息（与其青年资历相符）；上述兼职信息以个人主页为准，学部官网未见更详细条目。
 
@@ -172,12 +173,12 @@ PR 2024 论文《Category-agnostic Semantic Edge Detection by Measuring Neural R
 **第一圈层（师承与核心导师）**：
 - 博士导师李戈（北京大学，代码智能/深度学习）；
 - 事实上的博士合作导师高伟（北京大学深研院，弱监督学习/多媒体分析）；
-- 硕士导师涂长贺、联合导师李扬彦（山东大学，图形学/三维视觉）；
+- 硕士导师屠长河、联合导师Yangyan Li（山东大学，图形学/三维视觉）；
 - 现团队负责人冯伟（天津大学ViL，多媒体分析与视觉智能）。
 
 **第二圈层（长期深度合作者/师门网络）**：
 - 蒋鹏（山东大学，合作最持续的非学位导师，贯穿其全部三个研究阶段）；
-- Nan Zhang、Haochen Sun、Qiong Zeng、Guangnan Wu、Linxuan Xin 等学生辈合作者（未来的潜在合作网络与人才引进来源）；
+- Nan Zhang、Haochen Sun、Guangnan Wu、Linxuan Xin 等学生辈合作者，以及曾琼（山东大学教授、屠长河师门）等教师级师门合作者（未来的潜在合作网络与人才引进来源）；
 - 山东大学图形学群体（陈宝权等外围）。
 
 **第三圈层（现单位ViL及天津大学网络）**：
