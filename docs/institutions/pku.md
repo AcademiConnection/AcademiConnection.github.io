@@ -19,3 +19,5 @@
 | Open-Sora 课题组 | [查看总览](../pku_opensora_faculty_network/README.md) |
 | PKU-ML 田永鸿课题组 | [查看总览](../pku_tianyonghong_group_network/README.md) |
 | VVT 视频与视觉技术研究所 | [查看总览](../pku_vvt_faculty_network/README.md) |
+| 深研院信息工程学院团队 | [查看总览](../pku_sz_ie_faculty_network/README.md) |
+| NERCVT 视频与视觉技术国家工程研究中心 | [查看总览](../pku_vvtech_faculty_network/README.md) |

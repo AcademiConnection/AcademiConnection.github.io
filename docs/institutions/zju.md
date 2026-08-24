@@ -17,3 +17,4 @@
 | CAD&CG 章国锋组 | [查看总览](../zju_zhangguofeng_group_faculty_network/README.md) |
 | 周昆组（GAPs） | [查看总览](../zju_zhoukun_group_faculty_network/README.md) |
 | CAD&CG 周晓巍组 | [查看总览](../zju_zhouxiaowei_group_faculty_network/README.md) |
+| 吴飞团队（跨媒体智能） | [查看总览](../zju_wufei_group_network/README.md) |

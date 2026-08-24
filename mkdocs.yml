@@ -144,6 +144,18 @@ nav:
           - 卢宗青: pku_vvt_faculty_network/pku_vvt_luzongqing_network.md
           - 王苫社: pku_vvt_faculty_network/pku_vvt_wangshanshe_network.md
           - 陈国璋: pku_vvt_faculty_network/pku_vvt_chenguozhang_network.md
+      - 深研院信息工程学院团队:
+          - 总览: pku_sz_ie_faculty_network/README.md
+          - 田永鸿: pku_sz_ie_faculty_network/pku_sz_tianyonghong_network.md
+          - 陈杰: pku_sz_ie_faculty_network/pku_sz_chenjie_network.md
+          - 王荣刚: pku_sz_ie_faculty_network/pku_sz_wangronggang_network.md
+          - 张健: pku_sz_ie_faculty_network/pku_sz_zhangjian_network.md
+          - 袁粒: pku_sz_ie_faculty_network/pku_sz_yuanli_network.md
+      - NERCVT 视频与视觉技术国家工程研究中心:
+          - 总览: pku_vvtech_faculty_network/README.md
+          - 高文: pku_vvtech_faculty_network/pku_vvtech_gaowen_network.md
+          - 黄铁军: pku_vvtech_faculty_network/pku_vvtech_huangtiejun_network.md
+          - 马思伟: pku_vvtech_faculty_network/pku_vvtech_masiwei_network.md
   - THU:
       - 首页: institutions/thu.md
       - HPC 实验室:
@@ -316,6 +328,10 @@ nav:
           - 总览: zju_zhouxiaowei_group_faculty_network/README.md
           - 周晓巍: zju_zhouxiaowei_group_faculty_network/zju_zhouxiaowei_zhouxiaowei_network.md
           - 彭思达: zju_zhouxiaowei_group_faculty_network/zju_zhouxiaowei_pengsida_network.md
+      - 吴飞团队（跨媒体智能）:
+          - 总览: zju_wufei_group_network/README.md
+          - 吴飞: zju_wufei_group_network/zju_wufei_wufei_network.md
+          - 庄越挺: zju_wufei_group_network/zju_wufei_zhuangyueting_network.md
   - NJU:
       - 首页: institutions/nju.md
       - LAMDA 实验室:
@@ -569,6 +585,29 @@ nav:
           - 李诚: ustc_adsl_faculty_network/ustc_adsl_licheng_network.md
           - 吕敏: ustc_adsl_faculty_network/ustc_adsl_lvmin_network.md
           - 郑启龙: ustc_adsl_faculty_network/ustc_adsl_zhengqilong_network.md
+      - MIRA Lab:
+          - 总览: ustc_mira_faculty_network/README.md
+          - 王杰: ustc_mira_faculty_network/ustc_mira_wangjie_network.md
+      - 语音及语言信息处理国家工程研究中心:
+          - 总览: ustc_speech_faculty_network/README.md
+          - 戴礼荣: ustc_speech_faculty_network/ustc_speech_dailirong_network.md
+          - 杜俊: ustc_speech_faculty_network/ustc_speech_dujun_network.md
+          - 凌震华: ustc_speech_faculty_network/ustc_speech_lingzhenhua_network.md
+          - 郭武: ustc_speech_faculty_network/ustc_speech_guowu_network.md
+          - 宋彦: ustc_speech_faculty_network/ustc_speech_songyan_network.md
+          - 张结: ustc_speech_faculty_network/ustc_speech_zhangjie_network.md
+          - 艾杨: ustc_speech_faculty_network/ustc_speech_aiyang_network.md
+          - 吴及: ustc_speech_faculty_network/ustc_speech_wuji_network.md
+      - MCC 多媒体计算与通信重点实验室:
+          - 总览: ustc_vimc_faculty_network/README.md
+          - 吴枫: ustc_vimc_faculty_network/ustc_vimc_wufeng_network.md
+          - 李厚强: ustc_vimc_faculty_network/ustc_vimc_lihouqiang_network.md
+          - 周文罡: ustc_vimc_faculty_network/ustc_vimc_zhouwengang_network.md
+          - 张勇东: ustc_vimc_faculty_network/ustc_vimc_zhangyongdong_network.md
+      - 张兰 / LINKE 实验室:
+          - 总览: ustc_zhanglan_group_network/README.md
+          - 张兰: ustc_zhanglan_group_network/ustc_zhanglan_zhanglan_network.md
+          - 李向阳: ustc_zhanglan_group_network/ustc_zhanglan_lixiangyang_network.md
   - CAS:
       - 首页: institutions/cas.md
       - 信息工程研究所:
@@ -590,6 +629,25 @@ nav:
           - 孙晓明: ict_cas_sunxiaoming_faculty_network/ict_cas_sunxiaoming_network.md
           - 张家琳: ict_cas_sunxiaoming_faculty_network/ict_cas_zhangjialin_network.md
           - 田国敬: ict_cas_sunxiaoming_faculty_network/ict_cas_tianguojing_network.md
+      - 自动化所多模态团队:
+          - 总览: cas_ia_multimodal_faculty_network/README.md
+          - 王亮: cas_ia_multimodal_faculty_network/cas_ia_wangliang_network.md
+          - 宗成庆: cas_ia_multimodal_faculty_network/cas_ia_zongchengqing_network.md
+          - 张家俊: cas_ia_multimodal_faculty_network/cas_ia_zhangjiajun_network.md
+          - 乔红: cas_ia_multimodal_faculty_network/cas_ia_qiaohong_network.md
+          - 王鹏: cas_ia_multimodal_faculty_network/cas_ia_wangpeng_network.md
+      - 计算所处理器芯片全国重点实验室:
+          - 总览: ict_chip_faculty_network/README.md
+          - 孙凝晖: ict_chip_faculty_network/ict_chip_sunninghui_network.md
+          - 胡伟武: ict_chip_faculty_network/ict_chip_huweiwu_network.md
+          - 陈云霁: ict_chip_faculty_network/ict_chip_chenyunji_network.md
+          - 包云岗: ict_chip_faculty_network/ict_chip_baoyungang_network.md
+          - 谭光明: ict_chip_faculty_network/ict_chip_tanguangming_network.md
+      - 计算所 VIPL 视觉信息处理研究组:
+          - 总览: ict_vipl_faculty_network/README.md
+          - 陈熙霖: ict_vipl_faculty_network/ict_vipl_chenxilin_network.md
+          - 山世光: ict_vipl_faculty_network/ict_vipl_shanshiguang_network.md
+          - 王瑞平: ict_vipl_faculty_network/ict_vipl_wangruiping_network.md
   - HIT:
       - 首页: institutions/hit.md
       - HIT-SCIR:
@@ -694,6 +752,26 @@ nav:
           - 陈俊洁: tju_wise_faculty_network/tju_wise_chenjunjie_network.md
           - 姜佳君: tju_wise_faculty_network/tju_wise_jiangjiajun_network.md
           - 王赞: tju_wise_faculty_network/tju_wise_wangzan_network.md
+      - ViL 视觉智能实验室:
+          - 总览: tju_vil_faculty_network/README.md
+          - 冯伟: tju_vil_faculty_network/tju_vil_fengwei_network.md
+          - 万亮: tju_vil_faculty_network/tju_vil_wanliang_network.md
+          - 尚凡华: tju_vil_faculty_network/tju_vil_shangfanhua_network.md
+          - 刘红英: tju_vil_faculty_network/tju_vil_liuhongying_network.md
+          - 林迪: tju_vil_faculty_network/tju_vil_lindi_network.md
+          - 张乾: tju_vil_faculty_network/tju_vil_zhangqian_network.md
+          - 潘志一: tju_vil_faculty_network/tju_vil_panzhiyi_network.md
+  - XJTU:
+      - 首页: institutions/xjtu.md
+      - 人工智能与机器人研究所（人机所）:
+          - 总览: xjtu_aiar_faculty_network/README.md
+          - 郑南宁: xjtu_aiar_faculty_network/xjtu_aiar_zhengnaning_network.md
+          - 辛景民: xjtu_aiar_faculty_network/xjtu_aiar_xinjingmin_network.md
+          - 孙宏滨: xjtu_aiar_faculty_network/xjtu_aiar_sunhongbin_network.md
+          - 薛建儒: xjtu_aiar_faculty_network/xjtu_aiar_xuejianru_network.md
+          - 兰旭光: xjtu_aiar_faculty_network/xjtu_aiar_lanxuguang_network.md
+          - 刘跃虎: xjtu_aiar_faculty_network/xjtu_aiar_liuyuehu_network.md
+          - 张雪涛: xjtu_aiar_faculty_network/xjtu_aiar_zhangxuetao_network.md
   - SUFE:
       - 首页: institutions/sufe.md
       - ITCS 实验室:
