@@ -1,8 +1,8 @@
 site_name: Academic Connection Network
 site_description: 学术关系网络资料库
-site_url: https://academicconnection.github.io/AcademiConnectionWeb/
-repo_name: AcademiConnection/AcademiConnectionWeb
-repo_url: https://github.com/AcademiConnection/AcademiConnectionWeb
+site_url: https://academiconnection.github.io/
+repo_name: AcademiConnection/AcademiConnection.github.io
+repo_url: https://github.com/AcademiConnection/AcademiConnection.github.io
 edit_uri: ''
 theme:
   name: material
