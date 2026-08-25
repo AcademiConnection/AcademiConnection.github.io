@@ -24,8 +24,8 @@ theme:
     - navigation.expand
     - navigation.top
     - search.highlight
-  logo: assets/icon-cropped.png
-  favicon: assets/icon-32x32.png
+  logo: assets/icon-transparent-128x128.png
+  favicon: assets/icon-transparent-32x32.png
 
 plugins:
   - search:
