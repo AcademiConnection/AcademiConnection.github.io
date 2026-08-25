@@ -1,0 +1,35 @@
+name: Check Nav Coverage
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'mkdocs.yml'
+      - 'ci/check-nav-coverage.py'
+      - '.github/workflows/check-nav-coverage.yml'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'mkdocs.yml'
+      - 'ci/check-nav-coverage.py'
+      - '.github/workflows/check-nav-coverage.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  check-nav-coverage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run nav coverage check
+        run: python3 ci/check-nav-coverage.py
