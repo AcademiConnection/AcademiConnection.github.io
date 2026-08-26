@@ -2,9 +2,9 @@
 
 ## 概述
 
-本目录收录浙江大学计算机辅助设计与图形系统全国重点实验室（CAD&CG）六位代表性教师的学术关系网络报告。CAD&CG 全国重点实验室是中国计算机图形学领域的发源地之一，由石教英教授、彭群生教授等创建，历任主任包括石教英、彭群生、鲍虎军，现任主任为周昆教授。实验室在真实感图形绘制、几何计算与处理、科学可视化、计算机动画等方向长期处于国内领先地位。
+本目录收录浙江大学计算机辅助设计与图形系统全国重点实验室（CAD&CG）十五位代表性教师的学术关系网络报告。CAD&CG 全国重点实验室是中国计算机图形学领域的发源地之一，由石教英教授、彭群生教授等创建，历任主任包括石教英、彭群生、鲍虎军，现任主任为周昆教授。实验室在真实感图形绘制、几何计算与处理、科学可视化、计算机动画等方向长期处于国内领先地位。
 
-本目录覆盖实验室整体层面的六位核心教师。实验室主任周昆及各研究团队负责人（鲍虎军、章国锋、周晓巍、许威威、金小刚）另在独立目录中单独成卷：
+本目录覆盖实验室整体层面的核心教师，其中首批6份报告于2026年8月20日完成，2026年8月25日第二批补录9位教师（沈春华、唐敏、童若锋、林兰芬、高曙明、张宏鑫、华炜、耿卫东、刘玉生），覆盖计算机视觉/深度学习、实时绘制、机器学习、智能制造、几何造型、几何处理、图形与游戏、AI辅助创作、智能CAD等方向。实验室主任周昆及各研究团队负责人（鲍虎军、章国锋、周晓巍、许威威、金小刚）另在独立目录中单独成卷：
 
 - 周昆组（GPU 实时渲染/数字人）：`../zju_zhoukun_group_faculty_network/`
 - 鲍虎军组（三维重建/神经表示）：`../zju_baohujun_group_faculty_network/`
@@ -23,6 +23,15 @@
 | 4 | 肖俊 | 长江学者特聘教授 | 跨媒体智能、机器学习 | [zju_cadcg_xiaojun_network.md](zju_cadcg_xiaojun_network.md) |
 | 5 | 刘新国 | 教授 | 几何处理、人体建模、虚拟现实 | [zju_cadcg_liuxinguo_network.md](zju_cadcg_liuxinguo_network.md) |
 | 6 | 黄劲 | 教授、国家优青 | 数字几何处理、物理仿真 | [zju_cadcg_huangjin_network.md](zju_cadcg_huangjin_network.md) |
+| 7 | 沈春华 | 求是讲席教授 | 计算机视觉、深度学习（FCOS通讯作者） | [zju_cadcg_shenchunhua_network.md](zju_cadcg_shenchunhua_network.md) |
+| 8 | 唐敏 | 教授 | 实时图形绘制、GPU图形、几何计算 | [zju_cadcg_tangmin_network.md](zju_cadcg_tangmin_network.md) |
+| 9 | 童若锋 | 教授（曾任计算机科学与工程系系主任） | 机器学习、计算机视觉 | [zju_cadcg_tongruofeng_network.md](zju_cadcg_tongruofeng_network.md) |
+| 10 | 林兰芬 | 教授、人工智能研究所副所长 | 智能制造、CAD/CIM、产品数据管理 | [zju_cadcg_linlanfen_network.md](zju_cadcg_linlanfen_network.md) |
+| 11 | 高曙明 | 教授（2024年荣休） | 几何造型、CAD | [zju_cadcg_gaoshuming_network.md](zju_cadcg_gaoshuming_network.md) |
+| 12 | 张宏鑫 | 副教授、计算机系副主任 | 数字几何处理、网格处理 | [zju_cadcg_zhanghongxin_network.md](zju_cadcg_zhanghongxin_network.md) |
+| 13 | 华炜 | 副研究员 | 计算机图形学、GPU绘制 | [zju_cadcg_huawei_network.md](zju_cadcg_huawei_network.md) |
+| 14 | 耿卫东 | 二级教授 | 计算机动画、游戏与虚拟现实、AI辅助创作 | [zju_cadcg_gengweidong_network.md](zju_cadcg_gengweidong_network.md) |
+| 15 | 刘玉生 | 教授、江西求是高等研究院院长 | CAD、几何约束求解、AI for CAD | [zju_cadcg_liuyusheng_network.md](zju_cadcg_liuyusheng_network.md) |
 
 ## 实验室学术谱系概览
 
@@ -31,6 +40,8 @@ CAD&CG 实验室的学术谱系以"彭群生—鲍虎军—周昆"三代传承�
 在可视化方向，陈为教授（浙江大学博士）领导的 VAI 小组是中国可视化研究的中坚力量，其培养的学生朱闽峰留校、夏佳志任教中南大学、马昱欣任教南方科技大学，形成国内可视化学术共同体的重要节点。在跨媒体智能方向，肖俊教授（师从庄越挺，待核实）作为DCD实验室骨干，培养出香港科技大学助理教授陈隆、一知智能创始人陈哲乾等新一代学者与创业者。
 
 微软亚洲研究院（MSRA）是贯穿实验室几代学者的产业界纽带：刘新国（2001—2006）、周昆、任重、刘利刚等均经由MSRA历练，使浙大CAD&CG与MSRA图形组构成中国图形学"产学研通道"的南北两端。
+
+第二批补录的教师进一步扩展了实验室的谱系边界：沈春华（2021年12月从澳大利亚阿德莱德大学全职加盟，任实验室副主任）是实验室面向计算机视觉与深度学习的标志性引才，其在阿德莱德大学培养的学生网络（Tian Zhi 等任教国内外高校）构成重要的国际合作资产；唐敏（师从何志均/董金祥，几何内核方向）、高曙明（2024年荣休）、童若锋、张宏鑫、华炜、耿卫东、刘玉生等覆盖实验室在CAD、几何处理、实时绘制、动画游戏等"传统强项"方向的中坚与资深力量；林兰芬（人工智能研究所副所长）早年由CAD/CIM方向延伸至智能制造，属于实验室谱系的关联成员（正式隶属以官方口径为准）。刘玉生创办华望系统（智能设计软件），延续实验室的产学研传统。
 
 ## 数据说明与勘误
 

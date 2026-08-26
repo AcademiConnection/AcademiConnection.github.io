@@ -4,7 +4,7 @@
 
 复旦大学类脑智能科学与技术研究院（ISTBI）成立于2015年6月，由冯建峰教授创立并担任院长，是国内高校最早成立的脑科学、人工智能与类脑研究交叉融合的科研机构。冯建峰1985-1991年就读于北京大学概率统计系（本硕博），历任剑桥Babraham研究所、萨塞克斯大学、华威大学讲席教授，2011年获英国皇家学会沃夫森研究功勋奖（首位华人）、2023年获德国洪堡研究奖，同时担任复旦大数据学院院长、上海数学中心首席科学家。研究院以数学和脑科学为交叉点，开展大脑认知机制解析、神经形态仿真、类脑智能算法、脑疾病智能诊疗等研究。
 
-研究院建制特色是"国际化+平台化"：汇聚了Craig Anderson（WSO主席）、Trevor Robbins（剑桥）、Barbara Sahakian（剑桥）、Gunter Schumann（IMAGEN联盟创始人）等全职/双聘国际学者，并建设张江国际脑影像中心（亚洲规模最大高端科研影像平台）和张江国际脑库两大重大平台。旗舰成果包括：全球首个860亿神经元数字孪生脑平台（2024年NSR）、2026年Science主刊慢性疼痛-抑郁神经机制论文、Nature Medicine 2023封面论文（NP因子，精神障碍共病神经基础）等。
+研究院建制特色是"国际化+平台化"：汇聚了 Trevor Robbins（剑桥，认知神经科学中心主任）、Barbara Sahakian（剑桥）、Gunter Schumann（IMAGEN联盟创始人，2021年全职加入）、Craig Anderson（WSO主席，国际临床试验与转化医学中心主任）等特聘国际学者（全职/双聘），并建设张江国际脑影像中心（亚洲规模最大高端科研影像平台）和张江国际脑库两大重大平台。旗舰成果包括：全球首个860亿神经元数字孪生脑平台（2024年NSR）、2026年Science主刊慢性疼痛-抑郁神经机制论文（肖晓/冯建峰/Robbins 共同通讯）、Nature Medicine 2023封面论文（NP因子，精神障碍共病神经基础）等。
 
 人才培养呈现"本土培养+全球引进"双轨：程炜（冯建峰2016年博士，现为研究员、老年脑健康智能科学中心主任）为代表的学生梯队，与王守岩（牛津引进）、赵兴明（国家杰青）、加福民（清华李路明团队）、贾天野（KCL引进，优青，2025年底转任北京大学中国药物依赖性研究所）等引进PI并行发展。
 
@@ -18,10 +18,15 @@
 | 程炜 | 研究员、老年脑健康智能科学中心主任、华山医院双聘 | [fudan_istbi_chengwei_network.md](fudan_istbi_chengwei_network.md) |
 | 加福民 | 副研究员、脑脊接口方向负责人 | [fudan_istbi_jiafumin_network.md](fudan_istbi_jiafumin_network.md) |
 | 贾天野 | 教授（原复旦青年研究员，现北京大学中国药物依赖性研究所） | [fudan_istbi_jiatianye_network.md](fudan_istbi_jiatianye_network.md) |
+| 肖晓 | 研究员、博导；认知神经科学中心执行主任；国家青年长江学者 | [fudan_istbi_xiaoxiao_network.md](fudan_istbi_xiaoxiao_network.md) |
+| Trevor Robbins | 特聘教授；认知神经科学中心主任；剑桥大学荣誉教授；2014年 Brain Prize 得主 | [fudan_istbi_trevorrobbins_network.md](fudan_istbi_trevorrobbins_network.md) |
+| Barbara Sahakian | 特聘教授；认知神经科学中心共同领衔人；剑桥大学临床神经心理学荣休教授；CANTAB 联合开发者 | [fudan_istbi_barbarasahakian_network.md](fudan_istbi_barbarasahakian_network.md) |
+| Gunter Schumann | 特聘教授；群体神经科学中心（PONS）负责人；IMAGEN 联盟创始人；华山医院双聘 | [fudan_istbi_gunterschumann_network.md](fudan_istbi_gunterschumann_network.md) |
+| Craig Anderson | 特聘教授；国际临床试验与转化医学中心（CCTM）主任；WSO 主席（2026-2028）；乔治全球健康研究院脑健康项目主任 | [fudan_istbi_craiganderson_network.md](fudan_istbi_craiganderson_network.md) |
 
 ## 研究方向与圈层结构
 
-研究院研究方向覆盖计算神经科学（BWAS泛函熵、数字孪生脑）、影像遗传学（IMAGEN/UK Biobank队列）、神经调控与脑机接口（DBS闭环、脑脊接口）、生物医学人工智能（宏基因组、脑疾病多组学）、认知神经科学与国际临床试验。网络结构呈五层：第一圈层为冯建峰核心团队（程炜等嫡系学生、肖晓等核心PI）；第二圈层为ISTBI建制内各中心PI（王守岩神经工程、赵兴明脑库、Schumann群体神经科学、Anderson临床试验、肖晓认知神经科学）；第三圈层为临床联盟（华山医院郁金泰/毛颖、中山医院、上海市精卫中心）；第四圈层为国际网络（华威/剑桥/KCL/IMAGEN联盟/EMBL Peer Bork）；第五圈层为产业网络（科大智能联合实验室、格式塔公司、品驰医疗、景昱/脑虎/阶梯医疗等脑机接口企业集群）。
+研究院研究方向覆盖计算神经科学（BWAS泛函熵、数字孪生脑）、影像遗传学（IMAGEN/UK Biobank队列）、神经调控与脑机接口（DBS闭环、脑脊接口）、生物医学人工智能（宏基因组、脑疾病多组学）、认知神经科学与国际临床试验。网络结构呈五层：第一圈层为冯建峰核心团队（程炜等嫡系学生、肖晓等核心PI）；第二圈层为ISTBI建制内各中心PI（王守岩神经工程、赵兴明脑库、Schumann群体神经科学、Anderson国际临床试验、肖晓认知神经科学，Robbins/Sahakian 以剑桥双聘身份领衔认知神经科学中心）；第三圈层为临床联盟（华山医院郁金泰/毛颖、中山医院、上海市精卫中心）；第四圈层为国际网络（华威/剑桥/KCL/IMAGEN联盟/EMBL Peer Bork，其中 Robbins、Sahakian、Anderson、Schumann 已建制化入职）；第五圈层为产业网络（科大智能联合实验室、格式塔公司、品驰医疗、景昱/脑虎/阶梯医疗等脑机接口企业集群）。
 
 ## 产业转化亮点
 
@@ -29,4 +34,4 @@
 
 ---
 
-报告生成时间：2026年8月21日
+报告生成时间：2026年8月21日（2026年8月26日增补肖晓、Trevor Robbins、Barbara Sahakian、Gunter Schumann、Craig Anderson 五份报告）
