@@ -1,6 +1,7 @@
 {#-
   Pagefind 全站搜索：通过 material 主题的 styles/scripts 扩展块注入。
   索引由 CI 在 `mkdocs build` 之后运行 `npx pagefind --site site` 生成到 site/pagefind/。
+  搜索按钮通过覆盖 partials/header.html 静态嵌入 Material 顶栏。
 -#}
 {% extends "base.html" %}
 
@@ -8,14 +9,6 @@
   {{ super() }}
   <link href="/pagefind/pagefind-component-ui.css" rel="stylesheet">
   <style>
-    /* 浮动搜索按钮：置于左下角（右下角被「回到顶部」按钮占用） */
-    .ac-pagefind-trigger {
-      position: fixed;
-      bottom: 1.2rem;
-      left: 1.2rem;
-      z-index: 5;
-    }
-
     /* 跟随 material 夜间模式切换 Pagefind UI 配色 */
     [data-md-color-scheme="slate"] {
       --pagefind-ui-primary: #e6e6e6;
@@ -24,16 +17,49 @@
       --pagefind-ui-border: #3a4149;
       --pagefind-ui-tag: #3d5a80;
     }
+
+    /* 顶栏搜索按钮：覆盖 Pagefind trigger 为 Material header icon 风格 */
+    .md-header__inner pagefind-modal-trigger {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 2.4rem;
+      height: 2.4rem;
+      padding: 0;
+      margin: 0.2rem;
+      border: none;
+      background: transparent;
+      color: currentColor;
+      cursor: pointer;
+      flex-shrink: 0;
+    }
+    .md-header__inner pagefind-modal-trigger .pf-trigger-btn {
+      background: transparent !important;
+      border: none !important;
+      color: currentColor !important;
+      padding: 0 !important;
+      margin: 0 !important;
+      width: 100% !important;
+      height: 100% !important;
+      display: flex !important;
+      align-items: center !important;
+      justify-content: center !important;
+      border-radius: 0 !important;
+      box-shadow: none !important;
+    }
+    .md-header__inner pagefind-modal-trigger .pf-trigger-icon {
+      width: 1.2rem !important;
+      height: 1.2rem !important;
+      background-color: currentColor !important;
+    }
+    .md-header__inner pagefind-modal-trigger .pf-trigger-shortcut {
+      display: none !important;
+    }
   </style>
 {% endblock %}
 
 {% block scripts %}
   {{ super() }}
   <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
-  <pagefind-modal-trigger
-    class="ac-pagefind-trigger"
-    placeholder="搜索学者 / 实验室 / 机构"
-    data-pagefind-ignore="all"
-  ></pagefind-modal-trigger>
   <pagefind-modal data-pagefind-ignore="all"></pagefind-modal>
 {% endblock %}
