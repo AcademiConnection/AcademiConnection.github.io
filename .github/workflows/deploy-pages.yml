@@ -40,6 +40,9 @@ jobs:
       - name: Build site
         run: mkdocs build --strict
 
+      - name: Build Pagefind search index
+        run: npx -y pagefind --site site
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

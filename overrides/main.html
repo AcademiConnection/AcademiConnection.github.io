@@ -1,0 +1,39 @@
+{#-
+  Pagefind 全站搜索：通过 material 主题的 styles/scripts 扩展块注入。
+  索引由 CI 在 `mkdocs build` 之后运行 `npx pagefind --site site` 生成到 site/pagefind/。
+-#}
+{% extends "base.html" %}
+
+{% block styles %}
+  {{ super() }}
+  <link href="/pagefind/pagefind-component-ui.css" rel="stylesheet">
+  <style>
+    /* 浮动搜索按钮：置于左下角（右下角被「回到顶部」按钮占用） */
+    .ac-pagefind-trigger {
+      position: fixed;
+      bottom: 1.2rem;
+      left: 1.2rem;
+      z-index: 5;
+    }
+
+    /* 跟随 material 夜间模式切换 Pagefind UI 配色 */
+    [data-md-color-scheme="slate"] {
+      --pagefind-ui-primary: #e6e6e6;
+      --pagefind-ui-text: #d0d0d0;
+      --pagefind-ui-background: #1a2129;
+      --pagefind-ui-border: #3a4149;
+      --pagefind-ui-tag: #3d5a80;
+    }
+  </style>
+{% endblock %}
+
+{% block scripts %}
+  {{ super() }}
+  <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
+  <pagefind-modal-trigger
+    class="ac-pagefind-trigger"
+    placeholder="搜索学者 / 实验室 / 机构"
+    data-pagefind-ignore="all"
+  ></pagefind-modal-trigger>
+  <pagefind-modal data-pagefind-ignore="all"></pagefind-modal>
+{% endblock %}

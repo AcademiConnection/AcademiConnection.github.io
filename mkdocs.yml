@@ -23,15 +23,13 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
-    - search.highlight
+  custom_dir: overrides
   logo: assets/icon-transparent-128x128.png
   favicon: assets/icon-transparent-32x32.png
 
-plugins:
-  - search:
-      lang:
-        - zh
-        - en
+# 搜索已改用 Pagefind（见 overrides/main.html 与 deploy-pages.yml），
+# 显式置空以禁用 Material 默认启用的 lunr search 插件（其索引达 32MB，中文分词差）。
+plugins: []
 
 markdown_extensions:
   - tables
