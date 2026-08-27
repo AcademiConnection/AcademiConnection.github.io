@@ -94,12 +94,23 @@
   <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
   <pagefind-modal data-pagefind-ignore="all"></pagefind-modal>
 
-  {#- 页面加载后兜底恢复 + 监听持久化 + 拦截 Material 自带切换 -#}
+  {#- 页面加载后兜底恢复 + 双向同步 radio button + 拦截 Material 自带切换 -#}
   <script>
     (function () {
       var STORAGE_SCHEME  = "data-md-color-scheme";
       var STORAGE_PRIMARY = "data-md-color-primary";
       var STORAGE_ACCENT  = "data-md-color-accent";
+
+      /* 同步顶栏 radio button 的 checked 状态与实际 scheme，
+         确保样式页面选择器和顶栏按钮双向一致 */
+      function syncRadioButtons() {
+        var scheme = document.body.dataset.mdColorScheme || "default";
+        var radios = document.querySelectorAll('input[type="radio"][name="__palette"]');
+        radios.forEach(function (radio) {
+          var rScheme = radio.getAttribute("data-md-color-scheme") || "default";
+          radio.checked = (rScheme === scheme);
+        });
+      }
 
       /* 兜底：extrahead 中的同步恢复可能因 JS 禁用而失败，
          这里再次确认 body dataset 与 localStorage 一致 */
@@ -113,14 +124,17 @@
         if (scheme  && body.dataset.mdColorScheme  !== scheme)  body.dataset.mdColorScheme  = scheme;
         if (primary && body.dataset.mdColorPrimary !== primary) body.dataset.mdColorPrimary = primary;
         if (accent  && body.dataset.mdColorAccent  !== accent)  body.dataset.mdColorAccent  = accent;
+
+        syncRadioButtons();
       }
 
-      /* 监听 body dataset 变化，自动持久化到 localStorage */
+      /* 监听 body dataset 变化：持久化到 localStorage + 同步 radio button */
       function observeChanges() {
         var observer = new MutationObserver(function (mutations) {
           mutations.forEach(function (mutation) {
             if (mutation.attributeName === "data-md-color-scheme") {
               localStorage.setItem(STORAGE_SCHEME, document.body.dataset.mdColorScheme);
+              syncRadioButtons();
             }
             if (mutation.attributeName === "data-md-color-primary") {
               localStorage.setItem(STORAGE_PRIMARY, document.body.dataset.mdColorPrimary);
