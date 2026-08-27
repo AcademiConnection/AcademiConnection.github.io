@@ -1,9 +1,40 @@
 {#-
-  Pagefind 全站搜索：通过 material 主题的 styles/scripts 扩展块注入。
-  索引由 CI 在 `mkdocs build` 之后运行 `npx pagefind --site site` 生成到 site/pagefind/。
+  Pagefind 全站搜索 + 配色持久化
+  索引由 CI 在 `mkdocs build` 之后运行 `npx pagefind --site site` 生成。
   搜索按钮通过覆盖 partials/header.html 静态嵌入 Material 顶栏。
 -#}
 {% extends "base.html" %}
+
+{#- === 在 <head> 末尾同步恢复配色，避免页面渲染后再切换导致的闪烁 === -#}
+{% block extrahead %}
+  {{ super() }}
+  <script>
+    /* 在 body 出现的第一时间恢复用户保存的配色，彻底消除 FOUC 闪烁。
+       使用 MutationObserver 是因为此时 document.body 通常还未创建。 */
+    (function () {
+      var savedScheme  = localStorage.getItem("data-md-color-scheme");
+      var savedPrimary = localStorage.getItem("data-md-color-primary");
+      var savedAccent  = localStorage.getItem("data-md-color-accent");
+      if (!savedScheme && !savedPrimary && !savedAccent) return;
+
+      function apply() {
+        var body = document.body;
+        if (!body) return false;
+        if (savedScheme)  body.setAttribute("data-md-color-scheme",  savedScheme);
+        if (savedPrimary) body.setAttribute("data-md-color-primary", savedPrimary);
+        if (savedAccent)  body.setAttribute("data-md-color-accent",  savedAccent);
+        return true;
+      }
+
+      if (!apply()) {
+        var mo = new MutationObserver(function () {
+          if (apply()) mo.disconnect();
+        });
+        mo.observe(document.documentElement, { childList: true, subtree: true });
+      }
+    })();
+  </script>
+{% endblock %}
 
 {% block styles %}
   {{ super() }}
@@ -63,38 +94,28 @@
   <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
   <pagefind-modal data-pagefind-ignore="all"></pagefind-modal>
 
-  {#- 全局配色持久化：页面加载时恢复用户自定义的配色方案、主色、辅助色，
-      并同步 Material 自带的 palette radio button，避免冲突。 -#}
+  {#- 页面加载后兜底恢复 + 监听持久化 + 拦截 Material 自带切换 -#}
   <script>
     (function () {
       var STORAGE_SCHEME  = "data-md-color-scheme";
       var STORAGE_PRIMARY = "data-md-color-primary";
       var STORAGE_ACCENT  = "data-md-color-accent";
 
+      /* 兜底：extrahead 中的同步恢复可能因 JS 禁用而失败，
+         这里再次确认 body dataset 与 localStorage 一致 */
       function applyFromStorage() {
         var scheme  = localStorage.getItem(STORAGE_SCHEME);
         var primary = localStorage.getItem(STORAGE_PRIMARY);
         var accent  = localStorage.getItem(STORAGE_ACCENT);
+        var body    = document.body;
+        if (!body) return;
 
-        if (scheme)  document.body.dataset.mdColorScheme  = scheme;
-        if (primary) document.body.dataset.mdColorPrimary = primary;
-        if (accent)  document.body.dataset.mdColorAccent  = accent;
-
-        // 同步 Material 自带的 palette radio button（仅按 scheme 匹配，
-        // 因为 radio button 会强制重置 primary/accent 为默认值）
-        var radios = document.querySelectorAll('input[type="radio"][name="__palette"]');
-        radios.forEach(function (radio) {
-          var rScheme = radio.getAttribute("data-md-color-scheme");
-          if (scheme && rScheme === scheme) {
-            radio.checked = true;
-          }
-        });
-
-        // 再次强制应用 primary/accent，覆盖 Material radio button 的默认值
-        if (primary) document.body.dataset.mdColorPrimary = primary;
-        if (accent)  document.body.dataset.mdColorAccent  = accent;
+        if (scheme  && body.dataset.mdColorScheme  !== scheme)  body.dataset.mdColorScheme  = scheme;
+        if (primary && body.dataset.mdColorPrimary !== primary) body.dataset.mdColorPrimary = primary;
+        if (accent  && body.dataset.mdColorAccent  !== accent)  body.dataset.mdColorAccent  = accent;
       }
 
+      /* 监听 body dataset 变化，自动持久化到 localStorage */
       function observeChanges() {
         var observer = new MutationObserver(function (mutations) {
           mutations.forEach(function (mutation) {
@@ -112,22 +133,20 @@
         observer.observe(document.body, { attributes: true });
       }
 
+      /* 拦截 Material 自带 palette label 点击。
+         Material JS 会在 click 后同步重置 primary/accent 为默认值，
+         我们用 setTimeout(0) 在下一次事件循环恢复用户保存的值。 */
       function interceptRadioChanges() {
-        // Material 的 palette 切换会强制重置 primary/accent 为默认值。
-        // 监听 palette label 点击，在 Material JS 执行完后恢复用户保存的值。
         document.addEventListener("click", function (e) {
           var label = e.target.closest("label[for^='__palette_']");
           if (!label) return;
           var savedPrimary = localStorage.getItem(STORAGE_PRIMARY);
           var savedAccent  = localStorage.getItem(STORAGE_ACCENT);
           if (!savedPrimary && !savedAccent) return;
-          // Material JS 是同步执行的，用 requestAnimationFrame 确保在下一帧恢复
-          requestAnimationFrame(function () {
-            requestAnimationFrame(function () {
-              if (savedPrimary) document.body.dataset.mdColorPrimary = savedPrimary;
-              if (savedAccent)  document.body.dataset.mdColorAccent  = savedAccent;
-            });
-          });
+          setTimeout(function () {
+            if (savedPrimary) document.body.dataset.mdColorPrimary = savedPrimary;
+            if (savedAccent)  document.body.dataset.mdColorAccent  = savedAccent;
+          }, 0);
         });
       }
 
