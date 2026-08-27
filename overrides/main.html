@@ -62,4 +62,86 @@
   {{ super() }}
   <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
   <pagefind-modal data-pagefind-ignore="all"></pagefind-modal>
+
+  {#- 全局配色持久化：页面加载时恢复用户自定义的配色方案、主色、辅助色，
+      并同步 Material 自带的 palette radio button，避免冲突。 -#}
+  <script>
+    (function () {
+      var STORAGE_SCHEME  = "data-md-color-scheme";
+      var STORAGE_PRIMARY = "data-md-color-primary";
+      var STORAGE_ACCENT  = "data-md-color-accent";
+
+      function applyFromStorage() {
+        var scheme  = localStorage.getItem(STORAGE_SCHEME);
+        var primary = localStorage.getItem(STORAGE_PRIMARY);
+        var accent  = localStorage.getItem(STORAGE_ACCENT);
+
+        if (scheme)  document.body.dataset.mdColorScheme  = scheme;
+        if (primary) document.body.dataset.mdColorPrimary = primary;
+        if (accent)  document.body.dataset.mdColorAccent  = accent;
+
+        // 同步 Material 自带的 palette radio button（仅按 scheme 匹配，
+        // 因为 radio button 会强制重置 primary/accent 为默认值）
+        var radios = document.querySelectorAll('input[type="radio"][name="__palette"]');
+        radios.forEach(function (radio) {
+          var rScheme = radio.getAttribute("data-md-color-scheme");
+          if (scheme && rScheme === scheme) {
+            radio.checked = true;
+          }
+        });
+
+        // 再次强制应用 primary/accent，覆盖 Material radio button 的默认值
+        if (primary) document.body.dataset.mdColorPrimary = primary;
+        if (accent)  document.body.dataset.mdColorAccent  = accent;
+      }
+
+      function observeChanges() {
+        var observer = new MutationObserver(function (mutations) {
+          mutations.forEach(function (mutation) {
+            if (mutation.attributeName === "data-md-color-scheme") {
+              localStorage.setItem(STORAGE_SCHEME, document.body.dataset.mdColorScheme);
+            }
+            if (mutation.attributeName === "data-md-color-primary") {
+              localStorage.setItem(STORAGE_PRIMARY, document.body.dataset.mdColorPrimary);
+            }
+            if (mutation.attributeName === "data-md-color-accent") {
+              localStorage.setItem(STORAGE_ACCENT, document.body.dataset.mdColorAccent);
+            }
+          });
+        });
+        observer.observe(document.body, { attributes: true });
+      }
+
+      function interceptRadioChanges() {
+        // Material 的 palette 切换会强制重置 primary/accent 为默认值。
+        // 监听 palette label 点击，在 Material JS 执行完后恢复用户保存的值。
+        document.addEventListener("click", function (e) {
+          var label = e.target.closest("label[for^='__palette_']");
+          if (!label) return;
+          var savedPrimary = localStorage.getItem(STORAGE_PRIMARY);
+          var savedAccent  = localStorage.getItem(STORAGE_ACCENT);
+          if (!savedPrimary && !savedAccent) return;
+          // Material JS 是同步执行的，用 requestAnimationFrame 确保在下一帧恢复
+          requestAnimationFrame(function () {
+            requestAnimationFrame(function () {
+              if (savedPrimary) document.body.dataset.mdColorPrimary = savedPrimary;
+              if (savedAccent)  document.body.dataset.mdColorAccent  = savedAccent;
+            });
+          });
+        });
+      }
+
+      function init() {
+        applyFromStorage();
+        observeChanges();
+        interceptRadioChanges();
+      }
+
+      if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", init);
+      } else {
+        init();
+      }
+    })();
+  </script>
 {% endblock %}
