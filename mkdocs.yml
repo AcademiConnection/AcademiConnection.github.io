@@ -42,7 +42,9 @@ markdown_extensions:
   - pymdownx.superfences
 
 nav:
-  - 首页: index.md
+  - 首页:
+      - 首页: index.md
+      - 样式: style.md
   - PKU:
       - 首页: institutions/pku.md
       - DAIR 实验室:
