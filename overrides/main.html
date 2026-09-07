@@ -102,14 +102,39 @@
       var STORAGE_ACCENT  = "data-md-color-accent";
 
       /* 同步顶栏 radio button 的 checked 状态与实际 scheme，
-         确保样式页面选择器和顶栏按钮双向一致 */
+         确保样式页面选择器和顶栏按钮双向一致。
+         关键：程序化设置 checked 不会触发 change 事件，Material JS
+         将感知不到 radio 状态变化，导致顶栏 label 显隐不同步——
+         点击已 checked 的 radio 不会再触发 change，表现为"无法切换"。
+         因此在 checked 实际变化时必须主动 dispatch change 事件。 */
       function syncRadioButtons() {
         var scheme = document.body.dataset.mdColorScheme || "default";
         var radios = document.querySelectorAll('input[type="radio"][name="__palette"]');
+        var changed = false;
         radios.forEach(function (radio) {
           var rScheme = radio.getAttribute("data-md-color-scheme") || "default";
-          radio.checked = (rScheme === scheme);
+          var shouldBeChecked = (rScheme === scheme);
+          if (radio.checked !== shouldBeChecked) {
+            radio.checked = shouldBeChecked;
+            changed = true;
+          }
         });
+        if (!changed) return;
+
+        // 通知 Material JS 更新顶栏 label 的显隐（它监听 change 事件）
+        var active = document.querySelector('input[name="__palette"][data-md-color-scheme="' + scheme + '"]');
+        if (active) active.dispatchEvent(new Event("change", { bubbles: true }));
+
+        // Material JS 处理 change 时会把 primary/accent 重置为 radio 上的
+        // 默认值（indigo），在下一次事件循环恢复用户保存的值
+        var savedPrimary = localStorage.getItem(STORAGE_PRIMARY);
+        var savedAccent  = localStorage.getItem(STORAGE_ACCENT);
+        if (savedPrimary || savedAccent) {
+          setTimeout(function () {
+            if (savedPrimary) document.body.dataset.mdColorPrimary = savedPrimary;
+            if (savedAccent)  document.body.dataset.mdColorAccent  = savedAccent;
+          }, 0);
+        }
       }
 
       /* 兜底：extrahead 中的同步恢复可能因 JS 禁用而失败，
