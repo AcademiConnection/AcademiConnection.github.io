@@ -1,0 +1,35 @@
+body:
+- type: textarea
+  id: professor-name
+  attributes:
+    label: 教授姓名
+    description: 请填写教授全名
+    placeholder: "例：小明"
+  validations:
+    required: true
+- type: textarea
+  id: affiliation
+  attributes:
+    label: 所属院系 / 实验室
+    description: 请填写教授所属的院系与实验室
+    placeholder: "例：师范大学 计算机学院 / 网络实验室"
+  validations:
+    required: true
+- type: textarea
+  id: source-links
+  attributes:
+    label: 来源链接（可选）
+    description: 提供任一即可，多填更好，便于核对。例如：学校官网、DBLP、Google Scholar
+    placeholder: |
+      学校官网：https://...
+      DBLP：https://dblp.org/...
+      Google Scholar：https://scholar.google.com/...
+  validations:
+    required: false
+- type: markdown
+  attributes:
+    value: |
+      > 💡 提交小贴士
+      > - 发布前可先在站内 [搜索](https://github.com/AcademiConnection/AcademiConnection.github.io) 确认该教授**尚未被收录**。
+      > - 若连同缺失的**实验室/团队**一并提交，可在正文补充该实验室的 PI 与主要成员。
+      > - 感谢你的贡献，填好后直接**发布**即可 🎉

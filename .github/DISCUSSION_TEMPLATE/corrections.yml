@@ -1,0 +1,35 @@
+body:
+- type: textarea
+  id: page-location
+  attributes:
+    label: 勘误位置
+    description: 请指出需要更正的内容出现在哪个页面 / 目录 / 文档
+    placeholder: "例：docs/sjtu_ipads_faculty_network/ README.md，或 https://academiconnection.github.io/ 的某页面"
+  validations:
+    required: true
+- type: textarea
+  id: corrected-info
+  attributes:
+    label: 更正建议
+    description: 请说明应改为的正确内容
+    placeholder: "例：根据学校官网应改为「自动化与感知学院 / 计算机视觉实验室」"
+  validations:
+    required: true
+- type: textarea
+  id: source-links
+  attributes:
+    label: 依据 / 来源链接（可选）
+    description: 提供正确信息的可靠出处，便于核对。例如：学校官网、DBLP、Google Scholar
+    placeholder: |
+      学校官网：https://...
+      DBLP：https://dblp.org/...
+      Google Scholar：https://scholar.google.com/...
+  validations:
+    required: false
+- type: markdown
+  attributes:
+    value: |
+      > 💡 提交小贴士
+      > - 请尽量提供**原文**与**更正后内容**的对照，并附上可靠来源，方便社区开发者核对修改。
+      > - 可直接在站内对应页面 [搜索](https://github.com/AcademiConnection/AcademiConnection.github.io) 定位到需修正的页面。
+      > - 感谢你帮忙纠错，填好后直接**发布**即可 🎉
