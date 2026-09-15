@@ -6,6 +6,13 @@
 
 您可以在[样式设置](/style/)页面自定义网站的配色方案（明暗主题、主色调与辅助色）。
 
+## 社区贡献
+
+欢迎补充和纠错！相关内容包括学术关系网络里的各位学者与实验室，欢迎您加入我们。
+
+- **[请求收录 Submission](https://github.com/AcademiConnection/AcademiConnection.github.io/discussions/new?category=submission)**：若您发现尚未收录的学者 / 实验室，请通过此链接提交请求，并提供教授姓名、所属院系 / 实验室及来源链接（学校官网 / DBLP / Google Scholar），便于我们核对后收录到本站。
+- **[勘误 Corrections](https://github.com/AcademiConnection/AcademiConnection.github.io/discussions/new?category=corrections)**：若您发现既有页面中的信息有出入，请通过此链接提交勘误，说明出错位置、更正建议及可靠来源，我们会尽快修正。
+
 ## 报告生成来源
 
 本站全部学术关系网络报告均由 [AcademiConnection](https://github.com/AcademiConnection/AcademiConnection) 工具生成，并基于院系和实验室官网、学者个人主页、DBLP 作者记录、论文及公开报道等公开资料整理。
