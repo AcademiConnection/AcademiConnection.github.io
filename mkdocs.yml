@@ -47,6 +47,39 @@ nav:
       - 样式: style.md
   - PKU:
       - 首页: institutions/pku.md
+      - 智能学院（SAI）:
+          - 总览: pku_sai_faculty_network/README.md
+          - 朱松纯: pku_sai_faculty_network/pku_sai_zhusongchun_network.md
+          - 陈宝权: pku_sai_faculty_network/pku_sai_chenbaoquan_network.md
+          - 林宙辰: pku_sai_faculty_network/pku_sai_linzhouchen_network.md
+          - 王立威: pku_sai_faculty_network/pku_sai_wangliwei_network.md
+          - 查红彬: pku_sai_faculty_network/pku_sai_chahongbin_network.md
+          - 谭营: pku_sai_faculty_network/pku_sai_tanying_network.md
+          - 邓志鸿: pku_sai_faculty_network/pku_sai_dengzhihong_network.md
+          - 李红燕: pku_sai_faculty_network/pku_sai_lihongyan_network.md
+          - 童云海: pku_sai_faculty_network/pku_sai_tongyunhai_network.md
+          - 曾钢: pku_sai_faculty_network/pku_sai_zenggang_network.md
+          - 英向华: pku_sai_faculty_network/pku_sai_yingxianghua_network.md
+          - 许超: pku_sai_faculty_network/pku_sai_xuchao_network.md
+          - 袁晓如: pku_sai_faculty_network/pku_sai_yuanxiaoru_network.md
+          - 吴玺宏: pku_sai_faculty_network/pku_sai_wuxihong_network.md
+          - 迟惠生: pku_sai_faculty_network/pku_sai_chihuisheng_network.md
+          - 陈婧: pku_sai_faculty_network/pku_sai_chenjing_network.md
+          - 曲天书: pku_sai_faculty_network/pku_sai_qutianshu_network.md
+          - 赵卉菁: pku_sai_faculty_network/pku_sai_zhaohuijing_network.md
+          - 封举富: pku_sai_faculty_network/pku_sai_fengjufu_network.md
+          - 裴玉茹: pku_sai_faculty_network/pku_sai_peiyuru_network.md
+          - 崔锦实: pku_sai_faculty_network/pku_sai_cuijinshi_network.md
+          - 罗定生: pku_sai_faculty_network/pku_sai_luodingsheng_network.md
+          - 宋国杰: pku_sai_faculty_network/pku_sai_songguojie_network.md
+          - 王奕森: pku_sai_faculty_network/pku_sai_wangyisen_network.md
+          - 方聪: pku_sai_faculty_network/pku_sai_fangcong_network.md
+          - 贺笛: pku_sai_faculty_network/pku_sai_hedi_network.md
+          - 刘利斌: pku_sai_faculty_network/pku_sai_liulibin_network.md
+          - 楚梦渝: pku_sai_faculty_network/pku_sai_chumengyu_network.md
+          - 张驰: pku_sai_faculty_network/pku_sai_zhangchi_network.md
+          - 钟亦武: pku_sai_faculty_network/pku_sai_zhongyiwu_network.md
+          - 刘航欣: pku_sai_faculty_network/pku_sai_liuhangxin_network.md
       - DAIR 实验室:
           - 总览: pku_dair_faculty_network/README.md
           - 崔斌: pku_dair_faculty_network/pku_dair_cuibin_network.md
