@@ -16,3 +16,4 @@
 | 数据库与数据管理团队 | [查看总览](../fudan_db_faculty_network/README.md) |
 | 多媒体智能安全实验室 | [查看总览](../fudan_msec_faculty_network/README.md) |
 | SONIC 网络与分布式计算团队 | [查看总览](../fudan_sonic_faculty_network/README.md) |
+| 大数据学院 | [查看总览](../fudan_bd_faculty_network/README.md) |

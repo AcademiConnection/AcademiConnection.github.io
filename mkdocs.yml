@@ -524,6 +524,7 @@ nav:
           - 程龚: nju_sefm_faculty_network/nju_sefm_chenggong_network.md
           - 李樾: nju_sefm_faculty_network/nju_sefm_liyue_network.md
           - 潘敏学: nju_sefm_faculty_network/nju_sefm_panminxue_network.md
+          - 左志强: nju_sefm_faculty_network/nju_sefm_zuozhiqiang_network.md
       - 智能科学与技术学院（苏州校区）:
           - 总览: nju_aist_faculty_network/README.md
           - 高阳: nju_aist_faculty_network/nju_aist_gaoyang_network.md
@@ -534,6 +535,9 @@ nav:
           - 符天凡: nju_aist_faculty_network/nju_aist_futianfan_network.md
           - 王轲: nju_aist_faculty_network/nju_aist_wangke_network.md
           - 刘智博: nju_aist_faculty_network/nju_aist_liuzhibo_network.md
+          - 张凯: nju_aist_faculty_network/nju_aist_zhangkai_network.md
+          - 姚遥: nju_aist_faculty_network/nju_aist_yaoyao_network.md
+          - 袁晓彤: nju_aist_faculty_network/nju_aist_yuanxiaotong_network.md
       - 人工智能学院其余方向教师:
           - 总览: nju_aiothers_faculty_network/README.md
           - 武港山: nju_aiothers_faculty_network/nju_aiothers_wugangshan_network.md
@@ -568,6 +572,12 @@ nav:
           - 骆斌: nju_softwareeng_faculty_network/nju_softwareeng_luobin_network.md
           - 何铁科: nju_softwareeng_faculty_network/nju_softwareeng_hetieke_network.md
           - 冯奕: nju_softwareeng_faculty_network/nju_softwareeng_fengyi_network.md
+      - 软件质量研究所:
+          - 总览: nju_softwarequality_faculty_network/README.md
+          - 徐宝文: nju_softwarequality_faculty_network/nju_softwarequality_xubaowen_network.md
+      - PLaX 程序设计语言与系统实验室:
+          - 总览: nju_plax_faculty_network/README.md
+          - 梁红瑾: nju_plax_faculty_network/nju_plax_lianghongjin_network.md
   - FUDAN:
       - 首页: institutions/fudan.md
       - FVL 实验室:
@@ -652,6 +662,27 @@ nav:
           - 总览: fudan_sonic_faculty_network/README.md
           - 王新: fudan_sonic_faculty_network/fudan_sonic_wangxin_network.md
           - 徐扬: fudan_sonic_faculty_network/fudan_sonic_xuyang_network.md
+      - 大数据学院:
+          - 总览: fudan_bd_faculty_network/README.md
+          - 黄增峰: fudan_bd_faculty_network/fudan_bd_huangzengfeng_network.md
+          - 江如俊: fudan_bd_faculty_network/fudan_bd_jiangrujun_network.md
+          - 罗珞: fudan_bd_faculty_network/fudan_bd_luoluo_network.md
+          - 魏轲: fudan_bd_faculty_network/fudan_bd_weike_network.md
+          - 王健: fudan_bd_faculty_network/fudan_bd_wangjian_network.md
+          - 孙鑫伟: fudan_bd_faculty_network/fudan_bd_sunxinwei_network.md
+          - 王戈飞: fudan_bd_faculty_network/fudan_bd_wanggefei_network.md
+          - 张卫忠: fudan_bd_faculty_network/fudan_bd_zhangweizhong_network.md
+          - 酕旭东: fudan_bd_faculty_network/fudan_bd_lixudong_network.md
+          - 周宝健: fudan_bd_faculty_network/fudan_bd_zhoubaojian_network.md
+          - 张力: fudan_bd_faculty_network/fudan_bd_zhangli_network.md
+          - 庄吓海: fudan_bd_faculty_network/fudan_bd_zhuangxiahai_network.md
+          - 周渊: fudan_bd_faculty_network/fudan_bd_zhouyuan_network.md
+          - 公维康: fudan_bd_faculty_network/fudan_bd_gongweikang_network.md
+          - 梁家卿: fudan_bd_faculty_network/fudan_bd_liangjiaqing_network.md
+          - 阳德青: fudan_bd_faculty_network/fudan_bd_yangdeqing_network.md
+          - 郑卫国: fudan_bd_faculty_network/fudan_bd_zhengweiguo_network.md
+          - 郭宏成: fudan_bd_faculty_network/fudan_bd_guohongcheng_network.md
+          - 陈思明: fudan_bd_faculty_network/fudan_bd_chensiming_network.md
   - SJTU:
       - 首页: institutions/sjtu.md
       - IPADS 实验室:
@@ -729,6 +760,16 @@ nav:
           - 总览: sjtu_thinklab_faculty_network/README.md
           - 严骏驰: sjtu_thinklab_faculty_network/sjtu_thinklab_yanjunchi_network.md
           - 杨学: sjtu_thinklab_faculty_network/sjtu_thinklab_yangxue_network.md
+      - 自动化与感知学院（机器人方向）:
+          - 总览: sjtu_ase_faculty_network/README.md
+          - 陈卫东: sjtu_ase_faculty_network/sjtu_ase_chenweidong_network.md
+          - 王景川: sjtu_ase_faculty_network/sjtu_ase_wangjingchuan_network.md
+          - 张晗: sjtu_ase_faculty_network/sjtu_ase_zhanghan_network.md
+          - 王贺升: sjtu_ase_faculty_network/sjtu_ase_wanghesheng_network.md
+          - 杨明: sjtu_ase_faculty_network/sjtu_ase_yangming_network.md
+          - 秦通: sjtu_ase_faculty_network/sjtu_ase_qintong_network.md
+          - 钱烨强: sjtu_ase_faculty_network/sjtu_ase_qianyeqiang_network.md
+          - 苏剑波: sjtu_ase_faculty_network/sjtu_ase_sujianbo_network.md
       - 先进人工智能研究所:
           - 总览: sjtu_aai_faculty_network/README.md
           - 杨小康: sjtu_aai_faculty_network/sjtu_aai_yangxiaokang_network.md

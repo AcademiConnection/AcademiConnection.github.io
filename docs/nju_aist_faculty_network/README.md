@@ -2,7 +2,7 @@
 
 **报告生成时间：** 2026年8月
 
-**覆盖范围：** 南京大学智能科学与技术学院（苏州校区，2022年成立，域名 is.nju.edu.cn）8位教师：高阳、单彩峰、戴望州、陈硕、司晨阳，以及原缺失清单归入该学院、经官网核实编制实际在计算机学院的3位教师：符天凡、王轲、刘智博。后3人按清单原计划收录于此，报告标题中已标注实际归属。
+**覆盖范围：** 南京大学智能科学与技术学院（苏州校区，2022年成立，域名 is.nju.edu.cn）核心教师，包括原收录的8位教师：高阳、单彩峰、戴望州、陈硕、司晨阳、符天凡、王轲、刘智博，以及本次按"NJU独立优秀学者补充清单"新收录的3位教师：张凯、姚遥、袁晓彤（均为智科院苏州校区教师）。其中符天凡、王轲、刘智博经官网核实编制实际在计算机学院，按清单原计划收录于此并在报告中注明实际归属。
 
 **数据方法：** 以DBLP官方作者消歧记录（pid）为核心数据源统计发表与合作网络，结合智科院官网（is.nju.edu.cn）、计算机学院官网（cs.nju.edu.cn）、各教师个人主页与官方新闻交叉确认职务、师承与企业合作。每人一份独立报告。
 
@@ -32,6 +32,14 @@
 | 符天凡 | 计算机学院准聘副教授（2024.12入职），AI for Science | [nju_aist_futianfan_network.md](./nju_aist_futianfan_network.md)|
 | 王轲 | 计算机学院长聘教授，PL×AI | [nju_aist_wangke_network.md](./nju_aist_wangke_network.md)|
 | 刘智博 | 计算机学院准聘副教授（2026.1入职），二进制逆向/AI安全 | [nju_aist_liuzhibo_network.md](./nju_aist_liuzhibo_network.md)|
+
+## 四、新增收录教师（智科院苏州校区）
+
+| 姓名 | 实际职位 | 报告文件|
+|------|----------|----------|
+| 张凯 | 智科院（苏州）副教授、博导，底层视觉/图像复原方向 | [nju_aist_zhangkai_network.md](./nju_aist_zhangkai_network.md)|
+| 姚遥 | 智科院（苏州）准聘副教授、博导，三维计算机视觉/图形学（NJU-3DV/PIL） | [nju_aist_yaoyao_network.md](./nju_aist_yaoyao_network.md)|
+| 袁晓彤 | 智科院（苏州）教授、博导，机器学习/优化（原南京信息工程大学教授），国家优青 | [nju_aist_yuanxiaotong_network.md](./nju_aist_yuanxiaotong_network.md)|
 
 ---
 

@@ -77,7 +77,7 @@
 
 ### 4.1 实验室内部与复旦校内合作
 
-魏忠钰虽隶属大数据学院并独立领衔 DISC，但与复旦大学自然语言处理实验室（FudanNLP）体系深度交织，构成其最核心的校内合作圈层。最突出的合作者是**黄萱菁**（复旦大学计算机学院教授）：二人不仅长期联合发表论文（如 DISC-MedLLM 技术报告中黄萱菁为合作者），更在产业合作载体"复旦-中电金信智能金融科技联合研究中心"中分别担任主任与学术委员会主任，形成"学术+产业"双轨协作。其次是**张奇**（复旦大学计算机学院教授），同为该联合研究中心副主任，且在 FudanNLP 论文体系中与魏忠钰多次共现（如 NAACL 2021《Discrete Argument Representation Learning for Interactive Argument Pair Identification》由 Lu Ji、魏忠钰、Jing Li、张奇、黄萱菁合作完成；ACL 2021《Math Word Problem Solving with Explicit Numerical Values》由 Qinzhuo Wu、张奇、魏忠钰、黄萱菁合作）。**邱锡鹏**作为 FudanNLP 的另一核心人物，与魏忠钰同属复旦 NLP 学术联谊圈层（见 4.2）。此外，现代语言学研究院青年副研究员**桂韬**、大数据学院青年研究员**黄增峰**、副教授**王健**、青年副研究员**毛晓军**等亦作为特聘专家参与中电金信联合研究中心，构成跨院系协作网络。魏忠钰本人被明确记载为"自然语言处理实验室（Fudan NLP）成员"，印证了其虽挂靠大数据学院但深度嵌入 FudanNLP 体系的结构特征。
+魏忠钰虽隶属大数据学院并独立领衔 DISC，但与复旦大学自然语言处理实验室（FudanNLP）体系深度交织，构成其最核心的校内合作圈层。最突出的合作者是**黄萱菁**（复旦大学计算机学院教授）：二人不仅长期联合发表论文（如 DISC-MedLLM 技术报告中黄萱菁为合作者），更在产业合作载体"复旦-中电金信智能金融科技联合研究中心"中分别担任主任与学术委员会主任，形成"学术+产业"双轨协作。其次是**张奇**（复旦大学计算机学院教授），同为该联合研究中心副主任，且在 FudanNLP 论文体系中与魏忠钰多次共现（如 NAACL 2021《Discrete Argument Representation Learning for Interactive Argument Pair Identification》由 Lu Ji、魏忠钰、Jing Li、张奇、黄萱菁合作完成；ACL 2021《Math Word Problem Solving with Explicit Numerical Values》由 Qinzhuo Wu、张奇、魏忠钰、黄萱菁合作）。**邱锡鹏**作为 FudanNLP 的另一核心人物，与魏忠钰同属复旦 NLP 学术联谊圈层（见 4.2）。此外，现代语言学研究院青年副研究员**桂韬**、大数据学院教授**黄增峰**、研究员**王健**、青年副研究员**毛晓军**等亦作为特聘专家参与中电金信联合研究中心，构成跨院系协作网络。魏忠钰本人被明确记载为"自然语言处理实验室（Fudan NLP）成员"，印证了其虽挂靠大数据学院但深度嵌入 FudanNLP 体系的结构特征。
 
 ### 4.2 跨机构合作
 

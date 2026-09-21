@@ -22,3 +22,5 @@
 | 普适计算与群智计算团队（Dislab） | [查看总览](../nju_pervasive_faculty_network/README.md) |
 | 网络空间安全方向 | [查看总览](../nju_sec_faculty_network/README.md) |
 | 软件学院（南京） | [查看总览](../nju_softwareeng_faculty_network/README.md) |
+| 软件质量研究所（软件测试/软件质量方向） | [查看总览](../nju_softwarequality_faculty_network/README.md) |
+| PLaX 程序设计语言与系统实验室 | [查看总览](../nju_plax_faculty_network/README.md) |

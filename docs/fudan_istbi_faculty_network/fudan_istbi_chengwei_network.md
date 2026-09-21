@@ -52,9 +52,9 @@
 
 2021年起在程炜课题组从事博士后研究，方向为神经影像、多模态磁共振成像与精神分裂症。其代表性成果为2023年Nature Mental Health论文《Neuroimaging biomarkers define neurophysiological subtypes with distinct trajectories in schizophrenia》的第一作者（程炜独立通讯、冯建峰共同通讯），该工作利用影像生物标志物定义了精神分裂症的神经生理学亚型及其差异化病程轨迹。他是程炜在"计算精神病学"主线上的主要学术助手之一。
 
-### 3. 公维康（博士研究生，长期合作学生，现为牛津大学）
+### 3. 公维康（博士研究生，长期合作学生，曾赴牛津大学深造，现为复旦大学大数据学院青年研究员）
 
-公维康自2016年起以（联合培养/访问）学生身份与程炜合作，研究方向为统计学与机器学习，后赴英国牛津大学深造（实验室官网联系方式为牛津大学实验心理学系/脑功能区成像中心邮箱）。其代表性成果为2021年Nature Communications论文《Brain structure is linked to the association between family environment and behavioral problems in children in the ABCD study》的第一作者（程炜独立通讯），该工作基于ABCD青少年大队列揭示了家庭环境与儿童行为问题的脑结构基础。他是程炜组建课题组之前即开始合作的"元老级"学生合作者。
+公维康自2016年起以（联合培养/访问）学生身份与程炜合作，研究方向为统计学与机器学习，后赴英国牛津大学深造（实验室官网联系方式为牛津大学实验心理学系/脑功能区成像中心邮箱）。其代表性成果为2021年Nature Communications论文《Brain structure is linked to the association between family environment and behavioral problems in children in the ABCD study》的第一作者（程炜独立通讯），该工作基于ABCD青少年大队列揭示了家庭环境与儿童行为问题的脑结构基础。他是程炜组建课题组之前即开始合作的"元老级"学生合作者。需要补充的是，公维康现已回国任复旦大学大数据学院青年研究员（国家优青（海外）入选者），其最新情况详见本库《复旦大数据学院 公维康》报告。
 
 ### 4. 杜景南（博士研究生，2018–2021年）
 

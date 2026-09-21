@@ -13,6 +13,7 @@
 | DCVLab | [查看总览](../sjtu_dcvlab_faculty_network/README.md) |
 | MVIG 实验室 | [查看总览](../sjtu_mvig_faculty_network/README.md) |
 | ThinkLab / RethinkLab | [查看总览](../sjtu_thinklab_faculty_network/README.md) |
+| 自动化与感知学院（机器人方向） | [查看总览](../sjtu_ase_faculty_network/README.md) |
 | 先进人工智能研究所 | [查看总览](../sjtu_aai_faculty_network/README.md) |
 | 通用人工智能研究所 | [查看总览](../sjtu_agi_faculty_network/README.md) |
 | 先进网络研究所 | [查看总览](../sjtu_anri_faculty_network/README.md) |
