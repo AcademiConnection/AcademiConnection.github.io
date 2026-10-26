@@ -1127,6 +1127,7 @@ nav:
           - 李曼祎: sdu_irc_faculty_network/sdu_irc_limanyi_network.md
           - 钟凡: sdu_irc_faculty_network/sdu_irc_zhongfan_network.md
           - 曾琼: sdu_irc_faculty_network/sdu_irc_zengqiong_network.md
+          - 赵海森: sdu_irc_faculty_network/sdu_irc_zhaohaisen_network.md
       - 王小云团队:
           - 总览: sdu_wxy_faculty_network/README.md
           - 王小云: sdu_wxy_faculty_network/sdu_wxy_wangxiaoyun_network.md
@@ -1153,6 +1154,26 @@ nav:
           - 郑艳伟: sdu_iic_faculty_network/sdu_iic_zhengyanwei_network.md
           - 张啸: sdu_iic_faculty_network/sdu_iic_zhangxiao_network.md
           - 章宦乐: sdu_iic_faculty_network/sdu_iic_zhanghuanle_network.md
+      - GAI 通用智能实验室:
+          - 总览: sdu_gail_faculty_network/README.md
+          - 陈竹敏: sdu_gail_faculty_network/sdu_gail_chenzhumin_network.md
+          - 任鹏杰: sdu_gail_faculty_network/sdu_gail_renpengjie_network.md
+      - IALS 智能算法与软件实验室:
+          - 总览: sdu_ials_faculty_network/README.md
+          - 朱大铭: sdu_ials_faculty_network/sdu_ials_zhudaming_network.md
+          - 冯好娣: sdu_ials_faculty_network/sdu_ials_fenghaodi_network.md
+          - 姜海涛: sdu_ials_faculty_network/sdu_ials_jianghaitao_network.md
+          - 郭炅: sdu_ials_faculty_network/sdu_ials_guojiong_network.md
+          - 时阳光: sdu_ials_faculty_network/sdu_ials_shiyangguang_network.md
+          - 彭朝晖: sdu_ials_faculty_network/sdu_ials_pengzhaohui_network.md
+      - 系统安全方向（聚合视图）:
+          - 总览: sdu_syssec_faculty_network/README.md
+          - 王怀瑾: sdu_syssec_faculty_network/sdu_syssec_wanghuaijin_network.md
+          - 张悦: sdu_syssec_faculty_network/sdu_syssec_zhangyue_network.md
+          - 胡琴: sdu_syssec_faculty_network/sdu_syssec_huqin_network.md
+      - 图数据管理方向:
+          - 总览: sdu_graph_faculty_network/README.md
+          - 罗琦: sdu_graph_faculty_network/sdu_graph_luoqi_network.md
   - SYSU:
       - 首页: institutions/sysu.md
       - HCP-Lab:
